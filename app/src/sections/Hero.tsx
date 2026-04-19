@@ -15,7 +15,8 @@ export function Hero() {
 
   useEffect(() => {
     const handleResize = () => {
-      setBoxSize(window.innerWidth < 768 ? 250 : 450);
+      const isMobile = window.innerWidth < 768;
+      setBoxSize(isMobile ? 220 : 450);
     };
     handleResize();
     window.addEventListener('resize', handleResize);
@@ -29,19 +30,39 @@ export function Hero() {
     };
   }, []);
 
-  const mousePos = useRef({ x: 0, y: 0 });
+  const targetPos = useRef({ x: 0, y: 0 });
+  const currentPos = useRef({ x: 0, y: 0 });
   const rafId = useRef<number | null>(null);
+
+  const lerp = (start: number, end: number, factor: number) => {
+    return start + (end - start) * factor;
+  };
 
   const updatePosition = useCallback(() => {
     if (!sectionRef.current) return;
-    sectionRef.current.style.setProperty('--mouse-x', `${mousePos.current.x - halfBox}px`);
-    sectionRef.current.style.setProperty('--mouse-y', `${mousePos.current.y - halfBox}px`);
-    rafId.current = null;
+    
+    // Smoothly interpolate towards the target
+    // 0.15 factor for a good balance of responsiveness and smoothness
+    currentPos.current.x = lerp(currentPos.current.x, targetPos.current.x, 0.15);
+    currentPos.current.y = lerp(currentPos.current.y, targetPos.current.y, 0.15);
+
+    sectionRef.current.style.setProperty('--mouse-x', `${currentPos.current.x - halfBox}px`);
+    sectionRef.current.style.setProperty('--mouse-y', `${currentPos.current.y - halfBox}px`);
+    
+    // Check if we still need to move (to stop the loop eventually)
+    const dx = Math.abs(currentPos.current.x - targetPos.current.x);
+    const dy = Math.abs(currentPos.current.y - targetPos.current.y);
+    
+    if (dx > 0.1 || dy > 0.1) {
+      rafId.current = requestAnimationFrame(updatePosition);
+    } else {
+      rafId.current = null;
+    }
   }, [halfBox]);
 
   const handleMouseMove = useCallback((e: React.MouseEvent<HTMLElement>) => {
     const rect = e.currentTarget.getBoundingClientRect();
-    mousePos.current = {
+    targetPos.current = {
       x: e.clientX - rect.left,
       y: e.clientY - rect.top
     };
@@ -53,7 +74,7 @@ export function Hero() {
   const handleTouchMove = useCallback((e: React.TouchEvent<HTMLElement>) => {
     const rect = e.currentTarget.getBoundingClientRect();
     const touch = e.touches[0];
-    mousePos.current = {
+    targetPos.current = {
       x: touch.clientX - rect.left,
       y: touch.clientY - rect.top
     };
@@ -63,6 +84,10 @@ export function Hero() {
   }, [updatePosition]);
 
   useEffect(() => {
+    // Initial center position
+    targetPos.current = { x: window.innerWidth / 2, y: window.innerHeight / 2.5 };
+    currentPos.current = { ...targetPos.current };
+    
     return () => {
       if (rafId.current !== null) {
         cancelAnimationFrame(rafId.current);
@@ -90,7 +115,7 @@ export function Hero() {
           src={heroConfig.backgroundImage}
           alt="Hero Background"
           className="absolute inset-0 w-full h-full object-cover"
-          style={{ filter: 'blur(15px) brightness(0.6)' }}
+          style={{ filter: 'blur(clamp(8px, 2vw, 15px)) brightness(0.5)' }}
           onLoad={() => setImageLoaded(true)}
         />
       </div>
