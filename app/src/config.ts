@@ -170,7 +170,7 @@ export const portfolioConfig: PortfolioConfig = {
       title: "B2B Digital Banking",
       category: "Enterprise UX",
       year: "2021–2024",
-      image: "/images/case-studies/banking/Cover Page.png",
+      image: "/images/case-studies/banking/cover-page.png",
       featured: true,
     },
     {
@@ -178,14 +178,14 @@ export const portfolioConfig: PortfolioConfig = {
       title: "Digital Innovation",
       category: "Design System & Research",
       year: "2020",
-      image: "/images/case-studies/innovation/D1.png",
+      image: "/images/case-studies/innovation/d1.png",
     },
     {
       id: "product-design-portfolio",
       title: "Product Design Portfolio",
       category: "Industrial & Interaction Design",
       year: "2022–2024",
-      image: "/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-01.jpg",
+      image: "/images/misc/mitali-portfolio-01.jpg",
     },
   ],
   cta: {

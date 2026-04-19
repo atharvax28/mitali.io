@@ -204,115 +204,115 @@ export const projectsData: Record<string, ProjectDetail> = {
     category: 'Industrial & Interaction Design',
     year: '2022–2024',
     description: 'A comprehensive collection of design solutions ranging from board games for neurodiversity to e-commerce return optimization, and physical health hardware.',
-    coverImage: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/mitali-portfolio-01.jpg',
+    coverImage: '/images/misc/mitali-portfolio-01.jpg',
     challenge: 'Addressing diverse human factors and physical challenges, bridging physical product design with digital interaction.',
     solution: 'End-to-end service and product designs including physical games, app flows, and health hardware (TALK the TALK, (RE)TURN, PetCoach, TUNNEL).',
     role: 'Product Designer',
     duration: '2 Years',
     tools: ['User Research', 'Prototyping', 'Human Factors', 'CAD', 'Industrial Design'],
     process: [
-      { title: 'Observe', substeps: ['Observation Mapping', 'User Tracking'], image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/mitali-portfolio-05.jpg' },
-      { title: 'Develop', substeps: ['Prototyping', 'User Testing'], image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/mitali-portfolio-10.jpg' }
+      { title: 'Observe', substeps: ['Observation Mapping', 'User Tracking'], image: '/images/misc/mitali-portfolio-05.jpg' },
+      { title: 'Develop', substeps: ['Prototyping', 'User Testing'], image: '/images/misc/mitali-portfolio-10.jpg' }
     ],
     sections: [
       {
         type: 'text-image',
         title: '01 / TALK the TALK',
         content: 'A board game designed for autistic individuals to enhance employment opportunities through social interaction. Focuses on safe, structured communication frameworks.',
-        image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-03.jpg'
+        image: '/images/misc/Mitali portfolio 2024 (1)-03.jpg'
       },
       {
         type: 'grid',
         title: 'TALK the TALK - Process & Research',
         items: [
-          { title: 'Research & Personas', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-02.jpg' },
-          { title: 'Ideation', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-04.jpg' },
-          { title: 'Observation Mapping', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/mitali-portfolio-05.jpg' },
-          { title: 'Development', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-06.jpg' },
-          { title: 'Prototyping', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-07.jpg' },
-          { title: 'Play Testing', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-08.jpg' },
-          { title: 'Final Details', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-09.jpg' },
-          { title: 'Card Mechanics', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/mitali-portfolio-10.jpg' },
-          { title: 'User Feedback', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-11.jpg' }
+          { title: 'Research & Personas', image: '/images/misc/Mitali portfolio 2024 (1)-02.jpg' },
+          { title: 'Ideation', image: '/images/misc/Mitali portfolio 2024 (1)-04.jpg' },
+          { title: 'Observation Mapping', image: '/images/misc/mitali-portfolio-05.jpg' },
+          { title: 'Development', image: '/images/misc/Mitali portfolio 2024 (1)-06.jpg' },
+          { title: 'Prototyping', image: '/images/misc/Mitali portfolio 2024 (1)-07.jpg' },
+          { title: 'Play Testing', image: '/images/misc/Mitali portfolio 2024 (1)-08.jpg' },
+          { title: 'Final Details', image: '/images/misc/Mitali portfolio 2024 (1)-09.jpg' },
+          { title: 'Card Mechanics', image: '/images/misc/mitali-portfolio-10.jpg' },
+          { title: 'User Feedback', image: '/images/misc/Mitali portfolio 2024 (1)-11.jpg' }
         ]
       },
       {
         type: 'text-image',
         title: '02 / (RE)TURN',
         content: 'An e-commerce solution focusing on psychological factors to reduce return rates and increase sustainability. Encourages mindful purchasing through UX friction.',
-        image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-12.jpg'
+        image: '/images/misc/Mitali portfolio 2024 (1)-12.jpg'
       },
       {
         type: 'grid',
         title: '(RE)TURN - Experience Design',
         items: [
-          { title: 'Problem Discovery', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-13.jpg' },
-          { title: 'Journey Mapping', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-14.jpg' },
-          { title: 'Intervention Points', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-15.jpg' },
-          { title: 'Wireframing', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-16.jpg' },
-          { title: 'High Fidelity', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-17.jpg' },
-          { title: 'User Flow', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-18.jpg' },
-          { title: 'Data Architecture', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-19.jpg' },
-          { title: 'Validation', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-20.jpg' }
+          { title: 'Problem Discovery', image: '/images/misc/Mitali portfolio 2024 (1)-13.jpg' },
+          { title: 'Journey Mapping', image: '/images/misc/Mitali portfolio 2024 (1)-14.jpg' },
+          { title: 'Intervention Points', image: '/images/misc/Mitali portfolio 2024 (1)-15.jpg' },
+          { title: 'Wireframing', image: '/images/misc/Mitali portfolio 2024 (1)-16.jpg' },
+          { title: 'High Fidelity', image: '/images/misc/Mitali portfolio 2024 (1)-17.jpg' },
+          { title: 'User Flow', image: '/images/misc/Mitali portfolio 2024 (1)-18.jpg' },
+          { title: 'Data Architecture', image: '/images/misc/Mitali portfolio 2024 (1)-19.jpg' },
+          { title: 'Validation', image: '/images/misc/Mitali portfolio 2024 (1)-20.jpg' }
         ]
       },
       {
         type: 'text-image',
         title: '03 / PetCoach',
         content: 'A comprehensive hardware and software ecosystem helping dog owners monitor and improve their pet\'s health and fitness.',
-        image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-21.jpg'
+        image: '/images/misc/Mitali portfolio 2024 (1)-21.jpg'
       },
       {
         type: 'grid',
         title: 'PetCoach - Hardware & Software',
         items: [
-          { title: 'Concept Sketching', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-22.jpg' },
-          { title: 'Form Exploration', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-23.jpg' },
-          { title: 'Device CMF', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-24.jpg' },
-          { title: 'Wearable Ergonomics', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-25.jpg' },
-          { title: 'App UI', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-26.jpg' },
-          { title: 'Dashboard', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-27.jpg' },
-          { title: 'Health Tracking', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-28.jpg' },
-          { title: 'Gamification', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-29.jpg' },
-          { title: 'Testing', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-30.jpg' }
+          { title: 'Concept Sketching', image: '/images/misc/Mitali portfolio 2024 (1)-22.jpg' },
+          { title: 'Form Exploration', image: '/images/misc/Mitali portfolio 2024 (1)-23.jpg' },
+          { title: 'Device CMF', image: '/images/misc/Mitali portfolio 2024 (1)-24.jpg' },
+          { title: 'Wearable Ergonomics', image: '/images/misc/Mitali portfolio 2024 (1)-25.jpg' },
+          { title: 'App UI', image: '/images/misc/Mitali portfolio 2024 (1)-26.jpg' },
+          { title: 'Dashboard', image: '/images/misc/Mitali portfolio 2024 (1)-27.jpg' },
+          { title: 'Health Tracking', image: '/images/misc/Mitali portfolio 2024 (1)-28.jpg' },
+          { title: 'Gamification', image: '/images/misc/Mitali portfolio 2024 (1)-29.jpg' },
+          { title: 'Testing', image: '/images/misc/Mitali portfolio 2024 (1)-30.jpg' }
         ]
       },
       {
         type: 'text-image',
         title: '04 / TUNNEL',
         content: 'An ergonomic hardware product aimed at alleviating and preventing carpal tunnel syndrome for heavy computer users.',
-        image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-31.jpg'
+        image: '/images/misc/Mitali portfolio 2024 (1)-31.jpg'
       },
       {
         type: 'grid',
         title: 'TUNNEL - Industrial Design',
         items: [
-          { title: 'Anatomy Study', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-32.jpg' },
-          { title: 'Initial Sketches', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-33.jpg' },
-          { title: 'Foam Models', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-34.jpg' },
-          { title: '3D Printing', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-35.jpg' },
-          { title: 'CAD Refinement', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-36.jpg' },
-          { title: 'Materials', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-37.jpg' },
-          { title: 'Final Renders', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-38.jpg' },
-          { title: 'Exploded View', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-39.jpg' },
-          { title: 'Packaging', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-40.jpg' }
+          { title: 'Anatomy Study', image: '/images/misc/Mitali portfolio 2024 (1)-32.jpg' },
+          { title: 'Initial Sketches', image: '/images/misc/Mitali portfolio 2024 (1)-33.jpg' },
+          { title: 'Foam Models', image: '/images/misc/Mitali portfolio 2024 (1)-34.jpg' },
+          { title: '3D Printing', image: '/images/misc/Mitali portfolio 2024 (1)-35.jpg' },
+          { title: 'CAD Refinement', image: '/images/misc/Mitali portfolio 2024 (1)-36.jpg' },
+          { title: 'Materials', image: '/images/misc/Mitali portfolio 2024 (1)-37.jpg' },
+          { title: 'Final Renders', image: '/images/misc/Mitali portfolio 2024 (1)-38.jpg' },
+          { title: 'Exploded View', image: '/images/misc/Mitali portfolio 2024 (1)-39.jpg' },
+          { title: 'Packaging', image: '/images/misc/Mitali portfolio 2024 (1)-40.jpg' }
         ]
       },
       {
         type: 'grid',
         title: 'Additional Exploration',
         items: [
-          { title: 'Exploration 1', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-41.jpg' },
-          { title: 'Exploration 2', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-42.jpg' },
-          { title: 'Exploration 3', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-43.jpg' },
-          { title: 'Exploration 4', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-44.jpg' },
-          { title: 'Exploration 5', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-45.jpg' },
-          { title: 'Exploration 6', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-46.jpg' },
-          { title: 'Exploration 7', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-47.jpg' },
-          { title: 'Exploration 8', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-48.jpg' },
-          { title: 'Exploration 9', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-49.jpg' },
-          { title: 'Exploration 10', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-50.jpg' },
-          { title: 'Conclusion', image: '/images/mitali 3rd case study/Mitali portfolio 2024 (1).pdf/Mitali portfolio 2024 (1)-51.jpg' }
+          { title: 'Exploration 1', image: '/images/misc/Mitali portfolio 2024 (1)-41.jpg' },
+          { title: 'Exploration 2', image: '/images/misc/Mitali portfolio 2024 (1)-42.jpg' },
+          { title: 'Exploration 3', image: '/images/misc/Mitali portfolio 2024 (1)-43.jpg' },
+          { title: 'Exploration 4', image: '/images/misc/Mitali portfolio 2024 (1)-44.jpg' },
+          { title: 'Exploration 5', image: '/images/misc/Mitali portfolio 2024 (1)-45.jpg' },
+          { title: 'Exploration 6', image: '/images/misc/Mitali portfolio 2024 (1)-46.jpg' },
+          { title: 'Exploration 7', image: '/images/misc/Mitali portfolio 2024 (1)-47.jpg' },
+          { title: 'Exploration 8', image: '/images/misc/Mitali portfolio 2024 (1)-48.jpg' },
+          { title: 'Exploration 9', image: '/images/misc/Mitali portfolio 2024 (1)-49.jpg' },
+          { title: 'Exploration 10', image: '/images/misc/Mitali portfolio 2024 (1)-50.jpg' },
+          { title: 'Conclusion', image: '/images/misc/Mitali portfolio 2024 (1)-51.jpg' }
         ]
       }
     ]
