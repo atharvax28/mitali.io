@@ -1,5 +1,5 @@
 import { useState, useEffect, type MouseEvent } from 'react';
-import { useLocation, useNavigate, Link } from 'react-router';
+import { useLocation, Link } from 'react-router';
 import { cn } from '@/lib/utils';
 import { AnimatedButton } from './AnimatedButton';
 import { navigationConfig } from '@/config';
@@ -11,7 +11,7 @@ export function Navigation() {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isVisible, setIsVisible] = useState(false);
   const location = useLocation();
-  const navigate = useNavigate();
+
 
   const isHomePage = location.pathname === '/';
 

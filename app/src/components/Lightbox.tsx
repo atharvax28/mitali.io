@@ -1,6 +1,6 @@
 import { X, ChevronLeft, ChevronRight } from 'lucide-react';
 import { useEffect } from 'react';
-import { cn } from '@/lib/utils';
+
 
 interface LightboxProps {
   images: string[];
