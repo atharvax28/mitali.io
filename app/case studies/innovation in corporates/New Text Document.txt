@@ -1,0 +1,4269 @@
+/* Chat Bubble App - iconSvg.co */
+
+position: relative;
+width: 800px;
+height: 800px;
+
+
+
+/* D1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 128px 476px;
+gap: 10px;
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #FFFFFF;
+
+
+/* Screenshot 2025-02-22 at 7.36.32 PM 1 */
+
+width: 936.33px;
+height: 789.36px;
+
+background: url(Screenshot 2025-02-22 at 7.36.32 PM);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* D2 */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #FFFFFF;
+
+
+/* Screenshot 2025-02-21 220718 2 */
+
+position: absolute;
+width: 889px;
+height: 585px;
+left: 2409px;
+top: 172px;
+
+background: url(Screenshot 2025-02-21 220718);
+
+
+/* Header 3 */
+
+position: absolute;
+width: 746px;
+height: 48px;
+left: 58px;
+top: 30px;
+
+/* Header 3 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 132%;
+/* identical to box height, or 48px */
+letter-spacing: -0.02em;
+
+color: #6DB029;
+
+
+
+/* “Innovation is the key to your company’s survival Rapid technology change, challenge the businesses but at the same time present opportunities to flourish in the market, increase internal process efficiency, time and effort optimisation. Virtually no company can ignore the imperative to innovate. Failing to do so is an invitation to lose business. */
+
+position: absolute;
+width: 483px;
+height: 178px;
+left: 68px;
+top: 152px;
+
+/* Body 3 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 132%;
+/* or 26px */
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+
+color: #000000;
+
+
+
+/* Header 3 */
+
+position: absolute;
+width: 23px;
+height: 48px;
+left: 64px;
+top: 360px;
+
+
+
+
+/* Header 3 */
+
+position: absolute;
+width: 20px;
+height: 48px;
+left: 58px;
+top: 340px;
+
+
+
+
+/* 1. Innovation helps companies grow 2. Innovation keeps organisations relevant 3. Innovation helps organisations differentiate themselves */
+
+position: absolute;
+width: 503px;
+height: 129px;
+left: 67px;
+top: 366px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 216%;
+/* or 43px */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+color: #000000;
+
+
+
+/* Screenshot 2025-02-22 at 9.52.42 PM 1 */
+
+position: absolute;
+width: 1158px;
+height: 646px;
+left: 682px;
+top: 144px;
+
+background: url(Screenshot 2025-02-22 at 9.52.42 PM);
+
+
+/* D4 */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #FFFFFF;
+
+
+/* Screenshot 2025-02-21 220718 1 */
+
+position: absolute;
+width: 184px;
+height: 146px;
+left: 977px;
+top: 160px;
+
+background: url(Screenshot 2025-02-21 220718);
+
+
+/* Screenshot 2025-02-21 220718 3 */
+
+position: absolute;
+width: 184px;
+height: 149.58px;
+left: 1172px;
+top: 156px;
+
+background: url(Screenshot 2025-02-21 220718);
+
+
+/* Screenshot 2025-02-21 220718 4 */
+
+position: absolute;
+width: 368.09px;
+height: 168.44px;
+left: 979px;
+top: 395px;
+
+background: url(Screenshot 2025-02-21 220718);
+
+
+/* Screenshot 2025-02-21 220718 5 */
+
+position: absolute;
+width: 264.75px;
+height: 143.91px;
+left: 967px;
+top: 649px;
+
+background: url(Screenshot 2025-02-21 230129);
+
+
+/* Screenshot 2025-02-21 220718 7 */
+
+position: absolute;
+width: 325px;
+height: 144px;
+left: 976px;
+top: 885px;
+
+background: url(Screenshot 2025-02-21 230139);
+
+
+/* Screenshot 2025-02-21 220718 2 */
+
+position: absolute;
+width: 889px;
+height: 585px;
+left: 2409px;
+top: 172px;
+
+background: url(Screenshot 2025-02-21 220718);
+
+
+/* Insights We came across different styles of graphics, colors and interactions that are out in the market and their development with time. 1. Unique illustrations and animations 2. Story telling 3. Use of Artificial intelligence 4. neomorphic designs 5. Simple layouts for faster display 6. responsive colours Some insights are explain with examples in further pagers */
+
+position: absolute;
+width: 509px;
+height: 236px;
+left: 64px;
+top: 189px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 132%;
+/* or 21px */
+display: flex;
+align-items: center;
+letter-spacing: -0.02em;
+
+color: #6DB029;
+
+
+
+/* Header 3 */
+
+position: absolute;
+width: 1px;
+height: 48px;
+left: 67px;
+top: 229px;
+
+
+
+
+/* Information is given through a story */
+
+position: absolute;
+width: 926px;
+height: 26px;
+left: 988px;
+top: 112px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 132%;
+/* or 26px */
+letter-spacing: -0.02em;
+
+color: #6DB029;
+
+
+
+/* Interactive content with supporting visuals */
+
+position: absolute;
+width: 368px;
+height: 26px;
+left: 990px;
+top: 358px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 132%;
+/* or 26px */
+letter-spacing: -0.02em;
+
+color: #6DB029;
+
+
+
+/* More human approach */
+
+position: absolute;
+width: 332px;
+height: 26px;
+left: 988px;
+top: 616px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 132%;
+/* or 26px */
+letter-spacing: -0.02em;
+
+color: #6DB029;
+
+
+
+/* Feedback and Microinteractions */
+
+position: absolute;
+width: 332px;
+height: 26px;
+left: 988px;
+top: 843px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 132%;
+/* or 26px */
+letter-spacing: -0.02em;
+
+color: #6DB029;
+
+
+
+/* Screenshot 2025-02-21 231814 1 */
+
+position: absolute;
+width: 500px;
+height: 147.37px;
+left: 1330px;
+top: 882px;
+
+background: url(Screenshot 2025-02-21 231814.png);
+
+
+/* Literature review */
+
+position: absolute;
+width: 621px;
+height: 48px;
+left: 58px;
+top: 30px;
+
+/* Header 3 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 132%;
+/* identical to box height, or 48px */
+letter-spacing: -0.02em;
+
+color: #6DB029;
+
+
+
+/* Screenshot 2025-02-21 213335 1 */
+
+position: absolute;
+width: 0px;
+height: 0px;
+left: 960px;
+top: 524px;
+
+background: url(Screenshot 2025-02-21 213335.png);
+
+
+/* Screenshot 2025-02-22 at 10.18.50 PM 1 */
+
+position: absolute;
+width: 587px;
+height: 594px;
+left: 55px;
+top: 451px;
+
+background: url(Screenshot 2025-02-22 at 10.18.50 PM);
+
+
+/* To look at the overall picture and have deeper understanding of trends and what catches user's attention. This would also help in speculation of future trend. */
+
+position: absolute;
+width: 525px;
+height: 105px;
+left: 59px;
+top: 88px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 132%;
+/* or 21px */
+display: flex;
+align-items: center;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* D5 */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #FFFFFF;
+
+
+/* IMG_0056 1 */
+
+position: absolute;
+width: 347px;
+height: 241px;
+left: 58px;
+top: 242px;
+
+background: url(IMG_0056), #FFFFFF;
+border: 4.55629px solid #FFFFFF;
+box-shadow: 0px 0px 0px 0.569536px rgba(0, 0, 0, 0.2), 0px 0px 1.13907px rgba(0, 0, 0, 0.08), 0px 1.13907px 3.41722px rgba(0, 0, 0, 0.1);
+filter: blur(1px);
+border-radius: 2.27815px;
+
+
+/* IMG_0058 1 */
+
+position: absolute;
+width: 347px;
+height: 241px;
+left: 58px;
+top: 506px;
+
+background: url(IMG_0058), #FFFFFF;
+opacity: 0.88;
+border: 4.55629px solid #FFFFFF;
+box-shadow: 0px 0px 0px 0.569536px rgba(0, 0, 0, 0.2), 0px 0px 1.13907px rgba(0, 0, 0, 0.08), 0px 1.13907px 3.41722px rgba(0, 0, 0, 0.1);
+border-radius: 2.27815px;
+
+
+/* IMG_0058 2 */
+
+position: absolute;
+width: 347px;
+height: 241.14px;
+left: 58px;
+top: 772px;
+
+background: url(IMG_0058), #FFFFFF;
+border: 4.01893px solid #FFFFFF;
+box-shadow: 0px 0px 0px 0.502366px rgba(0, 0, 0, 0.2), 0px 0px 1.00473px rgba(0, 0, 0, 0.08), 0px 1.00473px 3.01419px rgba(0, 0, 0, 0.1);
+filter: blur(1.5px);
+border-radius: 2.00946px;
+
+
+/* IMG_0061 2 */
+
+position: absolute;
+width: 690.73px;
+height: 205.54px;
+left: 2399px;
+top: 222px;
+
+background: url(IMG_0061.png), #FFFFFF;
+border: 8px solid #FFFFFF;
+box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.2), 0px 0px 2px rgba(0, 0, 0, 0.08), 0px 2px 6px rgba(0, 0, 0, 0.1);
+border-radius: 4px;
+
+
+/* Screenshot 2025-02-22 004314 1 */
+
+position: absolute;
+width: 1350px;
+height: 816.87px;
+left: 480px;
+top: 218px;
+
+background: url(Screenshot 2025-02-22 004314);
+
+
+/* Header 3 */
+
+position: absolute;
+width: 621px;
+height: 48px;
+left: 58px;
+top: 30px;
+
+/* Header 3 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 132%;
+/* identical to box height, or 48px */
+letter-spacing: -0.02em;
+
+color: #6DB029;
+
+
+
+/* The website analysis was done to understand how the current portal works, what do people think about it. Website analysis is an important step in redesigning as we get to know the pain points and gain points of the current design. It helped us in understand which things are working and which are not and why somethings are not working. We tried to understand if all the brand guidelines were followed and what are the various ways to alter the brand guidelines. This website analysis was done on the basis of VIMM model, Heuristics and considering deloitte brand guidelines */
+
+position: absolute;
+width: 1010px;
+height: 76px;
+left: 61px;
+top: 114px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 132%;
+/* or 21px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 17px;
+height: 7px;
+left: 249px;
+top: 266px;
+
+background: #010101;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 7px;
+height: 3px;
+left: 80px;
+top: 389px;
+
+background: #010101;
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 18px;
+height: 7px;
+left: 83px;
+top: 639px;
+
+background: #1F1F1F;
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 12px;
+height: 3px;
+left: 245px;
+top: 645px;
+
+background: #010101;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 10px;
+height: 3px;
+left: 247px;
+top: 692px;
+
+background: #010101;
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 10px;
+height: 3px;
+left: 304px;
+top: 692px;
+
+background: #010101;
+
+
+/* Rectangle 49 */
+
+position: absolute;
+width: 246px;
+height: 129px;
+left: 1028px;
+top: 547px;
+
+background: #FFFFFF;
+
+
+/* Current score */
+
+position: absolute;
+width: 221px;
+height: 49px;
+left: 1033px;
+top: 550px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 132%;
+/* or 48px */
+display: flex;
+align-items: center;
+
+color: #6DB029;
+
+
+
+/* 63 */
+
+position: absolute;
+width: 52px;
+height: 49px;
+left: 1118px;
+top: 612px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 44px;
+line-height: 132%;
+/* or 58px */
+display: flex;
+align-items: center;
+
+color: #6DB029;
+
+
+
+/* D6 */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #FFFFFF;
+
+
+/* Screenshot 2025-02-22 005200 1 */
+
+position: absolute;
+width: 481px;
+height: 403px;
+left: 1397px;
+top: 206px;
+
+background: url(Screenshot 2025-02-22 005200);
+
+
+/* A dialogue discussion done with 15 people from various Functions. Questions included asking- • If they know about the Strategy and Innovation Department'? • Have they heard about India Innovation? • Have they visited the site? • What is their take on Innovation? • What would make them visit the site/read more? */
+
+position: absolute;
+width: 493px;
+height: 252px;
+left: 1091px;
+top: 206px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 132%;
+/* or 21px */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* • Unawareness about the Innovation Department and their roles • Users have motive driven actions • Piles of emails • Chat bot assistant - unaware about India Innovation site, sensing, Idea anytime • Marketing is needed to promote the site • Posters placed in cubical worked in promotion of Innovation site > It made few people aware and some visit the site. • There is a lot of travel involved for the professionals • User never land on the home page • Users mark and open email's based on area of interest • No search bar on site home page • Less workload week/month for few functions */
+
+position: absolute;
+width: 787px;
+height: 252px;
+left: 1091px;
+top: 721px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 132%;
+/* or 21px */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Interview insights */
+
+position: absolute;
+width: 333px;
+height: 53px;
+left: 1091px;
+top: 655px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 132%;
+/* or 26px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #6DB029;
+
+
+
+/* Interview */
+
+position: absolute;
+width: 333px;
+height: 53px;
+left: 1091px;
+top: 128px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 132%;
+/* or 26px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #6DB029;
+
+
+
+/* Primary research */
+
+position: absolute;
+width: 621px;
+height: 48px;
+left: 58px;
+top: 30px;
+
+/* Header 3 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 132%;
+/* identical to box height, or 48px */
+letter-spacing: -0.02em;
+
+color: #6DB029;
+
+
+
+/* Group 18 */
+
+position: absolute;
+width: 951px;
+height: 696px;
+left: 11px;
+top: 116px;
+
+
+
+/* Works from Mumbai, India Cubical office space. Work style: Individualist work style. Involved in only work related activities. Not aware about other engagements in the office. Visits only project related work portals. Ignores non interest related emails. He is work centered and action oriented. Aspirations: To have a career growth in the company. Motivations: Recognition by the manger for his work. Company Incentives and awards. */
+
+position: absolute;
+width: 255px;
+height: 441px;
+left: 63px;
+top: 371px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 132%;
+/* or 21px */
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+
+/* Works from Mi, India Cubical/ work from home Work style: is motive driven. Has social connections with colleagues. Is well informed about engagement activities but participations is mid to low. Has assignments that involves complex procedures to be followed. Interest oriented. Aspirations: To take higher leadership role. Motivations: Company benefits and services. Good work life balance */
+
+position: absolute;
+width: 255px;
+height: 399px;
+left: 384px;
+top: 371px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 132%;
+/* or 21px */
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+
+/* Works from Mumbai, India Cubical office space. Work style: Guiding and managing multiple projects. Busy schedule with many team meetings. Takes active participation in office engagements. Engages in reading about assets, activities, technology and future trends. Is self motivated. Aspirations: To build a strong career profile. Unravel new experiences.. Motivations: Awards and participation in interest specific clubs. */
+
+position: absolute;
+width: 255px;
+height: 441px;
+left: 707px;
+top: 371px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 132%;
+/* or 21px */
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+
+/* Arun Age- 25 */
+
+position: absolute;
+width: 58px;
+height: 42px;
+left: 61px;
+top: 304px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 132%;
+/* or 21px */
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+
+/* Preeti Desai Age- 34 */
+
+position: absolute;
+width: 90px;
+height: 42px;
+left: 382px;
+top: 304px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 132%;
+/* or 21px */
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+
+/* Simran Singh Age- 43 */
+
+position: absolute;
+width: 101px;
+height: 42px;
+left: 705px;
+top: 304px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 132%;
+/* or 21px */
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+
+/* persona ss 1 */
+
+position: absolute;
+width: 876px;
+height: 152px;
+left: 11px;
+top: 116px;
+
+background: url(persona ss);
+
+
+/* D7 */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #FFFFFF;
+
+
+/* Screenshot 2025-02-21 220718 2 */
+
+position: absolute;
+width: 889px;
+height: 585px;
+left: 2409px;
+top: 172px;
+
+background: url(Screenshot 2025-02-21 220718);
+
+
+/* Journey mapping */
+
+position: absolute;
+width: 621px;
+height: 48px;
+left: 58px;
+top: 30px;
+
+/* Header 3 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 132%;
+/* identical to box height, or 48px */
+letter-spacing: -0.02em;
+
+color: #6DB029;
+
+
+
+/* Screenshot 2025-02-21 213335 2 */
+
+position: absolute;
+width: 0px;
+height: 0px;
+left: 105px;
+top: 758px;
+
+background: url(Screenshot 2025-02-21 213335.png);
+
+
+/* The map shows user’s behavior during the usability testing that was done for the current portal. A usability testing done with one person. We gave them the task of navigating the website. Environmental Setting- Call Room Time of testing- 30 Minutes Testing done by 'Think Aloud' Protocol. The user is told to speak out whatever they are thinking while using the site. */
+
+position: absolute;
+width: 356px;
+height: 294px;
+left: 56px;
+top: 460px;
+
+/* Body 3 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 132%;
+/* or 21px */
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+
+color: #000000;
+
+
+
+/* Screenshot 2025-02-22 010138 1 */
+
+position: absolute;
+width: 377px;
+height: 281px;
+left: 58px;
+top: 153px;
+
+background: url(Screenshot 2025-02-22 010138);
+
+
+/* experience map 1 */
+
+position: absolute;
+width: 1485px;
+height: 782px;
+left: 435px;
+top: 124px;
+
+background: url(experience map);
+
+
+/* D8 dis */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #FFFFFF;
+
+
+/* Screenshot 2025-02-21 220718 2 */
+
+position: absolute;
+width: 889px;
+height: 585px;
+left: 2409px;
+top: 172px;
+
+background: url(Screenshot 2025-02-21 220718);
+
+
+/* Header 3 */
+
+position: absolute;
+width: 621px;
+height: 48px;
+left: 53px;
+top: 51px;
+
+/* Header 3 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 132%;
+/* identical to box height, or 48px */
+letter-spacing: -0.02em;
+
+color: #6DB029;
+
+
+
+/* Screenshot 2025-02-22 at 6.24.59 PM 1 */
+
+position: absolute;
+width: 923px;
+height: 629px;
+left: -46px;
+top: 183px;
+
+background: url(Screenshot 2025-02-22 at 6.24.59 PM);
+opacity: 0.8;
+
+
+/* Screenshot 2025-02-22 at 6.24.59 PM 2 */
+
+position: absolute;
+width: 923px;
+height: 629px;
+left: 53px;
+top: 2192px;
+
+background: url(Screenshot 2025-02-22 at 6.24.59 PM);
+opacity: 0.8;
+
+
+/* Aware */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 997.02px;
+top: 612px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 132%;
+/* identical to box height, or 32px */
+letter-spacing: -0.02em;
+
+color: #262626;
+
+
+
+/* Engage */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 1225.02px;
+top: 612px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 132%;
+/* identical to box height, or 32px */
+letter-spacing: -0.02em;
+
+color: #262626;
+
+
+
+/* Incentivise */
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 1443.02px;
+top: 612px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 132%;
+/* identical to box height, or 32px */
+letter-spacing: -0.02em;
+
+color: #262626;
+
+
+
+/* Create impact */
+
+position: absolute;
+width: 161px;
+height: 32px;
+left: 1648.02px;
+top: 612px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 132%;
+/* identical to box height, or 32px */
+letter-spacing: -0.02em;
+
+color: #262626;
+
+
+
+/* Screenshot 2025-02-21 213335 2 */
+
+position: absolute;
+width: 0px;
+height: 0px;
+left: 102px;
+top: 726px;
+
+background: url(Screenshot 2025-02-21 213335.png);
+
+
+/* Mask group */
+
+position: absolute;
+width: 164.44px;
+height: 164.44px;
+left: 958px;
+top: 417.56px;
+
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 164.44px;
+height: 164.44px;
+left: 958px;
+top: 417.56px;
+
+background: #D9D9D9;
+
+
+/* Mask group */
+
+position: absolute;
+width: 171.43px;
+height: 171.43px;
+left: 954.5px;
+top: 414.07px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 171.43px;
+height: 171.43px;
+left: 954.5px;
+top: 414.07px;
+
+background: #D9D9D9;
+
+
+/* Screenshot 2025-02-22 at 6.33.12 PM 1 */
+
+position: absolute;
+width: 987.62px;
+height: 368.52px;
+left: 888.03px;
+top: 225.14px;
+
+background: url(Screenshot 2025-02-22 at 6.33.12 PM);
+
+
+/* Mask group */
+
+position: absolute;
+width: 164.44px;
+height: 164.44px;
+left: 1188px;
+top: 418px;
+
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 164.44px;
+height: 164.44px;
+left: 1188px;
+top: 418px;
+
+background: #D9D9D9;
+
+
+/* Mask group */
+
+position: absolute;
+width: 171.43px;
+height: 171.43px;
+left: 1183.33px;
+top: 414.5px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 171.43px;
+height: 171.43px;
+left: 1183.33px;
+top: 414.5px;
+
+background: #D9D9D9;
+
+
+/* Screenshot 2025-02-22 at 6.33.12 PM 1 */
+
+position: absolute;
+width: 987.62px;
+height: 368.52px;
+left: 1116.86px;
+top: 225.58px;
+
+background: url(Screenshot 2025-02-22 at 6.33.12 PM);
+
+
+/* Mask group */
+
+position: absolute;
+width: 164.44px;
+height: 164.44px;
+left: 1418px;
+top: 418px;
+
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 164.44px;
+height: 164.44px;
+left: 1418px;
+top: 418px;
+
+background: #D9D9D9;
+
+
+/* Mask group */
+
+position: absolute;
+width: 171.43px;
+height: 171.43px;
+left: 1413.33px;
+top: 414.5px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 171.43px;
+height: 171.43px;
+left: 1413.33px;
+top: 414.5px;
+
+background: #D9D9D9;
+
+
+/* Screenshot 2025-02-22 at 6.33.12 PM 1 */
+
+position: absolute;
+width: 987.62px;
+height: 368.52px;
+left: 1346.86px;
+top: 225.58px;
+
+background: url(Screenshot 2025-02-22 at 6.33.12 PM);
+
+
+/* Mask group */
+
+position: absolute;
+width: 164.44px;
+height: 164.44px;
+left: 1648px;
+top: 418px;
+
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 164.44px;
+height: 164.44px;
+left: 1648px;
+top: 418px;
+
+background: #D9D9D9;
+
+
+/* Mask group */
+
+position: absolute;
+width: 171.43px;
+height: 171.43px;
+left: 1643.34px;
+top: 414.5px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 171.43px;
+height: 171.43px;
+left: 1643.34px;
+top: 414.5px;
+
+background: #D9D9D9;
+
+
+/* Screenshot 2025-02-22 at 6.33.12 PM 1 */
+
+position: absolute;
+width: 987.62px;
+height: 368.52px;
+left: 1576.86px;
+top: 225.58px;
+
+background: url(Screenshot 2025-02-22 at 6.33.12 PM);
+
+
+/* Identified value chain */
+
+position: absolute;
+width: 621px;
+height: 48px;
+left: 953px;
+top: 210px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 132%;
+/* identical to box height, or 48px */
+letter-spacing: -0.02em;
+
+color: #6DB029;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 405px;
+height: 125px;
+left: 0px;
+top: 156px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 405px;
+height: 125px;
+left: 99px;
+top: 2165px;
+
+background: #FFFFFF;
+
+
+/* Areas of intervention */
+
+position: absolute;
+width: 621px;
+height: 48px;
+left: 53px;
+top: 209px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 132%;
+/* identical to box height, or 48px */
+letter-spacing: -0.02em;
+
+color: #6DB029;
+
+
+
+/* Arrow 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 33px;
+height: 0px;
+left: 1139px;
+top: 500px;
+
+border: 3px solid #7DAA54;
+
+
+/* Arrow 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 33px;
+height: 0px;
+left: 1368px;
+top: 500px;
+
+border: 3px solid #7DAA54;
+
+
+/* Arrow 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 33px;
+height: 0px;
+left: 1598px;
+top: 500px;
+
+border: 3px solid #7DAA54;
+
+
+/* D8 */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #FFFFFF;
+
+
+/* Screenshot 2025-02-21 220718 2 */
+
+position: absolute;
+width: 889px;
+height: 585px;
+left: 2409px;
+top: 172px;
+
+background: url(Screenshot 2025-02-21 220718);
+
+
+/* Header 3 */
+
+position: absolute;
+width: 621px;
+height: 48px;
+left: 53px;
+top: 33px;
+
+/* Header 3 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 132%;
+/* identical to box height, or 48px */
+letter-spacing: -0.02em;
+
+color: #6DB029;
+
+
+
+/* Screenshot 2025-02-21 213335 2 */
+
+position: absolute;
+width: 0px;
+height: 0px;
+left: 102px;
+top: 726px;
+
+background: url(Screenshot 2025-02-21 213335.png);
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 405px;
+height: 125px;
+left: 0px;
+top: 156px;
+
+background: #FFFFFF;
+
+
+/* Based on the interviews, usability testing, experience, empathy map and heuristic evaluation. */
+
+position: absolute;
+width: 774px;
+height: 64px;
+left: 53px;
+top: 172px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 132%;
+/* or 32px */
+letter-spacing: -0.02em;
+
+color: #6DB029;
+
+
+
+/* Screenshot 2025-02-22 at 6.24.59 PM 3 */
+
+position: absolute;
+width: 869px;
+height: 629px;
+left: 973px;
+top: 142px;
+
+background: url(Screenshot 2025-02-22 at 6.24.59 PM);
+opacity: 0.8;
+
+
+/* Screenshot 2025-02-21 213335 3 */
+
+position: absolute;
+width: 0px;
+height: 0px;
+left: 1018px;
+top: 707px;
+
+background: url(Screenshot 2025-02-21 213335.png);
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 405px;
+height: 125px;
+left: 916px;
+top: 137px;
+
+background: #FFFFFF;
+
+
+/* Existing Portal Issues: No direct access point; currently accessible only via email. Low footfall and limited user engagement. Inconsistent layout and alignment issues affecting user experience. False clicks occurring in certain areas of the portal. Some links open new portals without clear indication, causing confusion. No feedback mechanism for users to provide input on pages. Accessibility issues making the portal difficult to navigate for all users. */
+
+position: absolute;
+width: 598px;
+height: 232px;
+left: 55px;
+top: 510px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 180%;
+/* or 29px */
+letter-spacing: 0.05em;
+
+color: #000000;
+
+
+
+/* Areas of intervention */
+
+position: absolute;
+width: 621px;
+height: 48px;
+left: 1018px;
+top: 169px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 132%;
+/* identical to box height, or 48px */
+letter-spacing: -0.02em;
+
+color: #6DB029;
+
+
+
+/* Low awareness of the department, with employees unsure of its role and contributions. Employees unclear about their involvement in the company’s innovation vision. Conflicting perspectives on what innovation means and how it should be approached. Innovation perceived as the responsibility of specific, dedicated teams, not open to all employees. Employees doubt their own creative potential and question their ability to contribute to innovation. */
+
+position: absolute;
+width: 796px;
+height: 203px;
+left: 55px;
+top: 279px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 180%;
+/* or 29px */
+letter-spacing: 0.05em;
+
+color: #000000;
+
+
+
+/* Group 17 */
+
+position: absolute;
+width: 762px;
+height: 28px;
+
+
+
+/* Group 15 */
+
+position: absolute;
+width: 762px;
+height: 28px;
+
+
+
+/* Aware */
+
+position: absolute;
+width: 111px;
+height: 28px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 132%;
+/* or 32px */
+letter-spacing: -0.02em;
+
+color: #262626;
+
+
+
+/* Engage */
+
+position: absolute;
+width: 111px;
+height: 28px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 132%;
+/* or 32px */
+letter-spacing: -0.02em;
+
+color: #262626;
+
+
+
+/* Incentivise */
+
+position: absolute;
+width: 136px;
+height: 28px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 132%;
+/* or 32px */
+letter-spacing: -0.02em;
+
+color: #262626;
+
+
+
+/* Create impact */
+
+position: absolute;
+width: 193px;
+height: 28px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 132%;
+/* or 32px */
+letter-spacing: -0.02em;
+
+color: #262626;
+
+
+
+/* D discarded9 */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #FFFFFF;
+
+
+/* Screenshot 2025-02-22 at 7.28.02 PM 6 */
+
+position: absolute;
+width: 115px;
+height: 213px;
+left: 221px;
+top: 642px;
+
+background: url(Screenshot 2025-02-22 at 7.28.02 PM);
+
+
+/* Screenshot 2025-02-21 220718 2 */
+
+position: absolute;
+width: 889px;
+height: 585px;
+left: 2409px;
+top: 172px;
+
+background: url(Screenshot 2025-02-21 220718);
+
+
+/* Screenshot 2025-02-22 at 5.58.44 PM 1 */
+
+position: absolute;
+width: 436px;
+height: 436px;
+left: 55px;
+top: 154px;
+
+background: url(Screenshot 2025-02-22 at 5.58.44 PM);
+
+
+/* Screenshot 2025-02-22 at 5.58.44 PM 2 */
+
+position: absolute;
+width: 544px;
+height: 438px;
+left: 532px;
+top: 152px;
+
+background: url(Screenshot 2025-02-22 at 5.58.44 PM);
+
+
+/* Screenshot 2025-02-22 at 7.28.02 PM 5 */
+
+position: absolute;
+width: 143px;
+height: 213px;
+left: 87px;
+top: 642px;
+
+background: url(Screenshot 2025-02-22 at 7.28.02 PM);
+
+
+/* Screenshot 2025-02-22 at 7.28.02 PM 2 */
+
+position: absolute;
+width: 443px;
+height: 154px;
+left: 87px;
+top: 878px;
+
+background: url(Screenshot 2025-02-22 at 7.28.02 PM);
+
+
+/* Screenshot 2025-02-22 at 7.28.02 PM 3 */
+
+position: absolute;
+width: 241px;
+height: 160px;
+left: 546px;
+top: 878px;
+
+background: url(Screenshot 2025-02-22 at 7.28.02 PM);
+
+
+/* Screenshot 2025-02-22 at 7.28.02 PM 4 */
+
+position: absolute;
+width: 321px;
+height: 214px;
+left: 353px;
+top: 641px;
+
+background: url(Screenshot 2025-02-22 at 7.28.02 PM);
+
+
+/* Screenshot 2025-02-22 at 6.39.32 PM 1 */
+
+position: absolute;
+width: 439.92px;
+height: 272.58px;
+left: 1392px;
+top: 128px;
+
+background: url(Screenshot 2025-02-22 at 6.39.32 PM);
+
+
+/* Screenshot 2025-02-22 at 6.43.26 PM 1 */
+
+position: absolute;
+width: 416.99px;
+height: 253.68px;
+left: 1399.17px;
+top: 419.32px;
+
+background: url(Screenshot 2025-02-22 at 6.43.26 PM);
+
+
+/* Ideation */
+
+position: absolute;
+width: 621px;
+height: 48px;
+left: 53px;
+top: 51px;
+
+/* Header 3 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 132%;
+/* identical to box height, or 48px */
+letter-spacing: -0.02em;
+
+color: #6DB029;
+
+
+
+/* Ideation and paper protos */
+
+position: absolute;
+width: 261px;
+height: 64px;
+left: 1168px;
+top: 339px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 132%;
+/* or 32px */
+letter-spacing: -0.02em;
+
+color: #6DB029;
+
+
+
+/* Screenshot 2025-02-22 at 6.41.08 PM */
+
+position: absolute;
+width: 400px;
+height: 273px;
+left: 1392px;
+top: 692px;
+
+background: url(Screenshot 2025-02-22 at 6.41.08 PM);
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 400.72px;
+height: 18.14px;
+left: 1339.95px;
+top: 70.04px;
+
+border: 3px solid #FFFFFF;
+
+
+/* Vector 2 */
+
+position: absolute;
+width: 34.2px;
+height: 0px;
+left: 1339.91px;
+top: 76.78px;
+
+border: 3px solid #FFFFFF;
+
+
+/* Vector 3 */
+
+position: absolute;
+width: 356.36px;
+height: 13.54px;
+left: 1320.91px;
+top: 72.98px;
+
+border: 3px solid #FFFFFF;
+
+
+/* Vector 4 */
+
+position: absolute;
+width: 459.92px;
+height: 12.23px;
+left: 1305.59px;
+top: 83.55px;
+
+border: 3px solid #FFFFFF;
+
+
+/* Rectangle 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 639px;
+height: 926px;
+left: 1203px;
+top: 95px;
+
+border: 1px solid #000000;
+border-radius: 20px;
+
+
+/* D9 */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #FFFFFF;
+
+
+/* Screenshot 2025-02-21 220718 2 */
+
+position: absolute;
+width: 889px;
+height: 585px;
+left: 2409px;
+top: 172px;
+
+background: url(Screenshot 2025-02-21 220718);
+
+
+/* Ideation */
+
+position: absolute;
+width: 621px;
+height: 48px;
+left: 53px;
+top: 43px;
+
+/* Header 3 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 132%;
+/* identical to box height, or 48px */
+letter-spacing: -0.02em;
+
+color: #6DB029;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 400.72px;
+height: 18.14px;
+left: 1861.36px;
+top: 410px;
+
+border: 3px solid #FFFFFF;
+
+
+/* Vector 2 */
+
+position: absolute;
+width: 34.2px;
+height: 0px;
+left: 1861.32px;
+top: 416.74px;
+
+border: 3px solid #FFFFFF;
+
+
+/* Vector 3 */
+
+position: absolute;
+width: 356.36px;
+height: 13.54px;
+left: 1842.32px;
+top: 412.94px;
+
+border: 3px solid #FFFFFF;
+
+
+/* Vector 4 */
+
+position: absolute;
+width: 459.92px;
+height: 12.23px;
+left: 1827px;
+top: 423.51px;
+
+border: 3px solid #FFFFFF;
+
+
+/* Group 16 */
+
+position: absolute;
+width: 1823px;
+height: 828px;
+left: 52px;
+top: 197px;
+
+
+
+/* Screenshot 2025-02-22 at 6.39.32 PM 1 */
+
+position: absolute;
+width: 480px;
+height: 297px;
+left: 1395px;
+top: 728px;
+
+background: url(Screenshot 2025-02-22 at 6.39.32 PM);
+
+
+/* Screenshot 2025-02-22 at 5.58.44 PM 1 */
+
+position: absolute;
+width: 343px;
+height: 343px;
+left: 1069px;
+top: 233px;
+
+background: url(Screenshot 2025-02-22 at 5.58.44 PM);
+
+
+/* Screenshot 2025-02-22 at 5.58.44 PM 2 */
+
+position: absolute;
+width: 410px;
+height: 344px;
+left: 1451px;
+top: 243px;
+
+background: url(Screenshot 2025-02-22 at 5.58.44 PM);
+
+
+/* Screenshot 2025-02-22 at 7.28.02 PM 5 */
+
+position: absolute;
+width: 131px;
+height: 170px;
+left: 90px;
+top: 725px;
+
+
+
+/* Screenshot 2025-02-22 at 7.28.02 PM 7 */
+
+position: absolute;
+width: 111px;
+height: 144px;
+left: 725px;
+top: 790px;
+
+
+
+/* Screenshot 2025-02-22 at 7.28.02 PM 9 */
+
+position: absolute;
+width: 89px;
+height: 114px;
+left: 1192px;
+top: 823px;
+
+
+
+/* Screenshot 2025-02-22 at 7.28.02 PM 6 */
+
+position: absolute;
+width: 113px;
+height: 147px;
+left: 415px;
+top: 780px;
+
+
+
+/* Screenshot 2025-02-22 at 7.28.02 PM 8 */
+
+position: absolute;
+width: 89px;
+height: 115px;
+left: 978px;
+top: 821px;
+
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 301px;
+height: 279px;
+left: 54px;
+top: 739px;
+
+background: #C0F18F;
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 243px;
+height: 219px;
+left: 677px;
+top: 800px;
+
+background: #C0F18F;
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 203px;
+height: 188px;
+left: 1169px;
+top: 833px;
+
+background: #C0F18F;
+
+
+/* Service to host workshops, surveys easily */
+
+position: absolute;
+width: 176px;
+height: 27px;
+left: 1181px;
+top: 843px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 132%;
+/* or 13px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 276px;
+height: 248px;
+left: 378px;
+top: 771px;
+
+background: #C0F18F;
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 203px;
+height: 127px;
+left: 943px;
+top: 892px;
+
+background: #C0F18F;
+
+
+/* Activities Single search bar (e.g.- Type banking and get results of ideas/ reports/assets) Join dedicated Teams groups Sensing etc. Publish feedback received */
+
+position: absolute;
+width: 186px;
+height: 123px;
+left: 953px;
+top: 874px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 153%;
+/* or 15px */
+
+color: #000000;
+
+
+
+/* TIA the company chatbot asks “What’s your IDEA today?” or Notifies “Report you would like to read” Showcase ‘Innovation in use’ at Deloitte. */
+
+position: absolute;
+width: 256px;
+height: 97px;
+left: 68px;
+top: 907px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Activity */
+
+position: absolute;
+width: 87px;
+height: 21px;
+left: 69px;
+top: 879px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Game of innovation */
+
+position: absolute;
+width: 85px;
+height: 14px;
+left: 1182px;
+top: 892px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 132%;
+/* identical to box height, or 13px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* What if the office surroundings are used for the activities? What if there’s a platform for people who feel underutilized which can show projects that organization is working on and need help with team? */
+
+position: absolute;
+width: 177px;
+height: 94px;
+left: 1182px;
+top: 919px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 132%;
+/* or 13px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Group 15 */
+
+position: absolute;
+width: 756px;
+height: 276.7px;
+left: 52px;
+top: 197px;
+
+
+
+/* Group 14 */
+
+position: absolute;
+width: 756px;
+height: 276.7px;
+left: 52px;
+top: 197px;
+
+
+
+/* Mask group */
+
+position: absolute;
+width: 143.76px;
+height: 143.76px;
+left: 61px;
+top: 329.56px;
+
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 143.76px;
+height: 143.76px;
+left: 61px;
+top: 329.56px;
+
+background: #D9D9D9;
+
+
+/* Mask group */
+
+position: absolute;
+width: 149.88px;
+height: 149.88px;
+left: 57.94px;
+top: 326.51px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 149.88px;
+height: 149.88px;
+left: 57.94px;
+top: 326.51px;
+
+background: #D9D9D9;
+
+
+/* Screenshot 2025-02-22 at 6.33.12 PM 1 */
+
+position: absolute;
+width: 863.44px;
+height: 322.18px;
+left: -0.17px;
+top: 161.34px;
+
+background: url(Screenshot 2025-02-22 at 6.33.12 PM);
+
+
+/* Mask group */
+
+position: absolute;
+width: 143.76px;
+height: 143.76px;
+left: 262.08px;
+top: 329.95px;
+
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 143.76px;
+height: 143.76px;
+left: 262.08px;
+top: 329.95px;
+
+background: #D9D9D9;
+
+
+/* Mask group */
+
+position: absolute;
+width: 149.88px;
+height: 149.88px;
+left: 258px;
+top: 326.89px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 149.88px;
+height: 149.88px;
+left: 258px;
+top: 326.89px;
+
+background: #D9D9D9;
+
+
+/* Screenshot 2025-02-22 at 6.33.12 PM 1 */
+
+position: absolute;
+width: 863.44px;
+height: 322.18px;
+left: 199.89px;
+top: 161.72px;
+
+background: url(Screenshot 2025-02-22 at 6.33.12 PM);
+
+
+/* Mask group */
+
+position: absolute;
+width: 143.76px;
+height: 143.76px;
+left: 463.16px;
+top: 329.95px;
+
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 143.76px;
+height: 143.76px;
+left: 463.16px;
+top: 329.95px;
+
+background: #D9D9D9;
+
+
+/* Mask group */
+
+position: absolute;
+width: 149.88px;
+height: 149.88px;
+left: 459.08px;
+top: 326.89px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 149.88px;
+height: 149.88px;
+left: 459.08px;
+top: 326.89px;
+
+background: #D9D9D9;
+
+
+/* Screenshot 2025-02-22 at 6.33.12 PM 1 */
+
+position: absolute;
+width: 863.44px;
+height: 322.18px;
+left: 400.97px;
+top: 161.72px;
+
+background: url(Screenshot 2025-02-22 at 6.33.12 PM);
+
+
+/* Mask group */
+
+position: absolute;
+width: 143.76px;
+height: 143.76px;
+left: 664.24px;
+top: 329.95px;
+
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 143.76px;
+height: 143.76px;
+left: 664.24px;
+top: 329.95px;
+
+background: #D9D9D9;
+
+
+/* Mask group */
+
+position: absolute;
+width: 149.88px;
+height: 149.88px;
+left: 660.16px;
+top: 326.89px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 149.88px;
+height: 149.88px;
+left: 660.16px;
+top: 326.89px;
+
+background: #D9D9D9;
+
+
+/* Screenshot 2025-02-22 at 6.33.12 PM 1 */
+
+position: absolute;
+width: 863.44px;
+height: 322.18px;
+left: 602.05px;
+top: 161.72px;
+
+background: url(Screenshot 2025-02-22 at 6.33.12 PM);
+
+
+/* Identified value chain */
+
+position: absolute;
+width: 621px;
+height: 48px;
+left: 52px;
+top: 197px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 132%;
+/* identical to box height, or 48px */
+letter-spacing: -0.02em;
+
+color: #6DB029;
+
+
+
+/* Arrow 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 29px;
+height: 0px;
+left: 219px;
+top: 402px;
+
+border: 3px solid #7DAA54;
+
+
+/* Arrow 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 29px;
+height: 0px;
+left: 419px;
+top: 402px;
+
+border: 3px solid #7DAA54;
+
+
+/* Arrow 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 28px;
+height: 0px;
+left: 621px;
+top: 402px;
+
+border: 3px solid #7DAA54;
+
+
+/* Group 16 */
+
+position: absolute;
+width: 857px;
+height: 219px;
+left: 67px;
+top: 747px;
+
+
+
+/* Content ‘About Us’ - What is the team (bio) and What do we do? The attention of people is caught better by face images. They help communicating story and build a connect. Present Success stories (Ideas Implemented/Assets used, etc.) */
+
+position: absolute;
+width: 266px;
+height: 115px;
+left: 67px;
+top: 747px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Content Quiz/report winners on the portal Function/sector wise offerings Other incentives provided on active participation Activities Award for Innovator of the Month Recognition email to practitioner with Reporting Manager/Partner in CC */
+
+position: absolute;
+width: 216px;
+height: 100px;
+left: 402px;
+top: 793px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Frame 3 */
+
+position: absolute;
+width: 239px;
+height: 154px;
+left: 685px;
+top: 812px;
+
+
+
+/* Content Innovation activity analytics per month/quarter Startup engagement shown Use case of an idea/asset/ collaboration with startup Activities Award for Innovator of the Month Recognition email to practitioner with Reporting Manager/Partner in CC */
+
+position: absolute;
+width: 216px;
+height: 123px;
+left: 3px;
+top: 11px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 150%;
+/* or 15px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Aware */
+
+position: absolute;
+width: 100px;
+height: 25px;
+left: 90px;
+top: 515px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 132%;
+/* or 32px */
+
+color: #000000;
+
+
+
+/* Engage */
+
+position: absolute;
+width: 100px;
+height: 25px;
+left: 296px;
+top: 515px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 132%;
+/* or 32px */
+
+color: #000000;
+
+
+
+/* Incentivize */
+
+position: absolute;
+width: 135px;
+height: 25px;
+left: 480px;
+top: 515px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 132%;
+/* or 32px */
+
+color: #000000;
+
+
+
+/* Create impact */
+
+position: absolute;
+width: 192px;
+height: 25px;
+left: 676px;
+top: 515px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 132%;
+/* or 32px */
+
+color: #000000;
+
+
+
+/* D10 */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #FFFFFF;
+
+
+/* Screenshot 2025-02-21 220718 2 */
+
+position: absolute;
+width: 889px;
+height: 585px;
+left: 2409px;
+top: 172px;
+
+background: url(Screenshot 2025-02-21 220718);
+
+
+/* Information Architecture */
+
+position: absolute;
+width: 621px;
+height: 48px;
+left: 53px;
+top: 37px;
+
+/* Header 3 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 132%;
+/* identical to box height, or 48px */
+letter-spacing: -0.02em;
+
+color: #6DB029;
+
+
+
+/* Screenshot 2025-02-22 at 6.37.28 PM 1 */
+
+position: absolute;
+width: 1250px;
+height: 488px;
+left: 24px;
+top: 150px;
+
+background: url(Screenshot 2025-02-22 at 6.37.28 PM);
+
+
+/* Screenshot 2025-02-22 at 7.00.41 PM 1 */
+
+position: absolute;
+width: 313px;
+height: 313px;
+left: 857px;
+top: 702px;
+
+background: url(Screenshot 2025-02-22 at 7.00.41 PM);
+
+
+/* Screenshot 2025-02-22 at 7.00.31 PM 1 */
+
+position: absolute;
+width: 209px;
+height: 383px;
+left: 1173px;
+top: 639px;
+
+background: url(Screenshot 2025-02-22 at 7.00.31 PM);
+
+
+/* Screenshot 2025-02-22 at 6.41.08 PM */
+
+position: absolute;
+width: 347px;
+height: 237px;
+left: 509px;
+top: 785px;
+
+background: url(Screenshot 2025-02-22 at 6.41.08 PM);
+
+
+/* Screenshot 2025-02-28 225339 1 */
+
+position: absolute;
+width: 273px;
+height: 672px;
+left: 1614px;
+top: 380px;
+
+background: url(Screenshot 2025-02-28 225339);
+
+
+/* Rectangle 18 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 224px;
+height: 365px;
+left: 1398px;
+top: 652px;
+
+background: #212821;
+opacity: 0.05;
+border: 0.2px solid #000000;
+
+
+/* Screenshot 2025-02-22 at 7.00.31 PM 2 */
+
+position: absolute;
+width: 181px;
+height: 257px;
+left: 1419px;
+top: 702px;
+
+background: url(Screenshot 2025-02-22 at 7.00.31 PM);
+
+
+/* Rectangle 34 */
+
+position: absolute;
+width: 68px;
+height: 7px;
+left: 1419px;
+top: 706px;
+
+background: #0C0C0C;
+
+
+/* Rectangle 35 */
+
+position: absolute;
+width: 68px;
+height: 7px;
+left: 1421px;
+top: 827px;
+
+background: #0C0C0C;
+
+
+/* Rectangle 36 */
+
+position: absolute;
+width: 44px;
+height: 7px;
+left: 1433px;
+top: 717px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 31 */
+
+position: absolute;
+width: 254px;
+height: 23px;
+left: 525px;
+top: 180px;
+
+background: #FFFFFF;
+
+
+/* Innovation portal */
+
+position: absolute;
+width: 226px;
+height: 20px;
+left: 553px;
+top: 183px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 113%;
+/* or 16px */
+
+color: #000000;
+
+
+
+/* Rectangle 32 */
+
+position: absolute;
+width: 17px;
+height: 2px;
+left: 868px;
+top: 713px;
+
+background: #0C0C0C;
+
+
+/* Rectangle 33 */
+
+position: absolute;
+width: 68px;
+height: 7px;
+left: 1185px;
+top: 656px;
+
+background: #0C0C0C;
+
+
+/* LOGO */
+
+position: absolute;
+width: 48px;
+height: 6px;
+left: 1432px;
+top: 719px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 4px;
+line-height: 113%;
+/* or 5px */
+
+color: #7E7E7E;
+
+opacity: 0.38;
+
+
+/* Rectangle 37 */
+
+position: absolute;
+width: 68px;
+height: 7px;
+left: 1656px;
+top: 416px;
+
+background: #0C0C0C;
+
+
+/* D11 */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #FFFFFF;
+
+
+/* Screenshot 2025-02-21 220718 2 */
+
+position: absolute;
+width: 889px;
+height: 585px;
+left: 2409px;
+top: 172px;
+
+background: url(Screenshot 2025-02-21 220718);
+
+
+/* Group 13 */
+
+position: absolute;
+width: 1191.1px;
+height: 743px;
+left: 53px;
+top: 35px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 1191.1px;
+height: 743px;
+left: 53px;
+top: 35px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 621px;
+height: 48px;
+left: 53px;
+top: 35px;
+
+
+
+/* Group 10 */
+
+position: absolute;
+width: 621px;
+height: 48px;
+left: 53px;
+top: 35px;
+
+
+
+/* Visual guidelines for the webpage */
+
+position: absolute;
+width: 621px;
+height: 48px;
+left: 53px;
+top: 35px;
+
+/* Header 3 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 132%;
+/* identical to box height, or 48px */
+letter-spacing: -0.02em;
+
+color: #6DB029;
+
+
+
+/* Screenshot 2025-02-22 at 7.32.44 PM 1 */
+
+position: absolute;
+width: 399.1px;
+height: 571px;
+left: 845px;
+top: 207px;
+
+background: url(Screenshot 2025-02-22 at 7.32.44 PM);
+
+
+/* Screenshot 2025-03-01 210211 1 */
+
+position: absolute;
+width: 463.1px;
+height: 578px;
+left: 361px;
+top: 196px;
+
+background: url(Screenshot 2025-03-01 210211);
+
+
+/* Group 10 */
+
+position: absolute;
+width: 258px;
+height: 105px;
+left: 54px;
+top: 193px;
+
+
+
+/* This user interface (UI) kit refers to a set of files that contains UI components like fonts, layered design files, icons, etc. */
+
+position: absolute;
+width: 258px;
+height: 105px;
+left: 54px;
+top: 193px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 132%;
+/* or 21px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 652px;
+height: 613px;
+left: 1243px;
+top: 183px;
+
+
+
+/* Group 13 */
+
+position: absolute;
+width: 652px;
+height: 613px;
+left: 1243px;
+top: 183px;
+
+
+
+/* Screenshot 2025-02-22 at 7.32.44 PM 1 */
+
+position: absolute;
+width: 652px;
+height: 613px;
+left: 1243px;
+top: 183px;
+
+background: url(Screenshot 2025-02-22 at 7.32.44 PM);
+
+
+/* D12 */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #FFFFFF;
+
+
+/* Screenshot 2025-02-21 220718 2 */
+
+position: absolute;
+width: 889px;
+height: 585px;
+left: 2409px;
+top: 172px;
+
+background: url(Screenshot 2025-02-21 220718);
+
+
+/* Screenshot 2025-02-22 at 7.09.50 PM 1 */
+
+position: absolute;
+width: 1814px;
+height: 654px;
+left: calc(50% - 1814px/2);
+top: 428px;
+
+background: url(Screenshot 2025-02-22 at 7.09.50 PM);
+
+
+/* Screenshot 2025-02-22 at 7.09.50 PM 2 */
+
+position: absolute;
+width: 596.3px;
+height: 356.7px;
+left: 1256px;
+top: 43px;
+
+background: url(Screenshot 2025-02-22 at 7.09.50 PM);
+
+
+/* Final wireframes */
+
+position: absolute;
+width: 621px;
+height: 48px;
+left: 53px;
+top: 36px;
+
+/* Header 3 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 132%;
+/* identical to box height, or 48px */
+letter-spacing: -0.02em;
+
+color: #6DB029;
+
+
+
+/* Rectangle 38 */
+
+position: absolute;
+width: 49px;
+height: 6px;
+left: 113px;
+top: 604px;
+
+background: #000000;
+opacity: 0.96;
+
+
+/* Rectangle 39 */
+
+position: absolute;
+width: 60px;
+height: 6px;
+left: 271px;
+top: 589px;
+
+background: #000000;
+opacity: 0.96;
+
+
+/* Rectangle 40 */
+
+position: absolute;
+width: 23px;
+height: 3px;
+left: 436px;
+top: 548px;
+
+background: #000000;
+opacity: 0.96;
+
+
+/* Rectangle 41 */
+
+position: absolute;
+width: 78px;
+height: 6px;
+left: 615px;
+top: 513px;
+
+background: #000000;
+opacity: 0.96;
+
+
+/* Rectangle 42 */
+
+position: absolute;
+width: 74px;
+height: 8px;
+left: 821px;
+top: 487px;
+
+background: #000000;
+opacity: 0.96;
+
+
+/* Rectangle 43 */
+
+position: absolute;
+width: 15px;
+height: 6px;
+left: 1068px;
+top: 500px;
+
+background: #000000;
+opacity: 0.96;
+
+
+/* Rectangle 44 */
+
+position: absolute;
+width: 55px;
+height: 6px;
+left: 1284px;
+top: 542px;
+
+background: #000000;
+opacity: 0.74;
+
+
+/* Rectangle 45 */
+
+position: absolute;
+width: 92px;
+height: 6px;
+left: 1467px;
+top: 587px;
+
+background: #000000;
+opacity: 0.96;
+
+
+/* Rectangle 46 */
+
+position: absolute;
+width: 21px;
+height: 6px;
+left: 1651px;
+top: 602px;
+
+background: #000000;
+opacity: 0.96;
+
+
+/* Rectangle 47 */
+
+position: absolute;
+width: 129px;
+height: 15px;
+left: 1341px;
+top: 72px;
+
+background: #000000;
+
+
+/* India */
+
+position: absolute;
+width: 25px;
+height: 8px;
+left: 1345px;
+top: 72px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 216%;
+/* or 22px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+opacity: 0.81;
+
+
+/* Innovation */
+
+position: absolute;
+width: 63px;
+height: 8px;
+left: 1377px;
+top: 72px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 216%;
+/* or 22px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+opacity: 0.81;
+
+
+/* x */
+
+position: absolute;
+width: 5px;
+height: 9px;
+left: 1370px;
+top: 71px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 216%;
+/* or 22px */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+color: #6DB029;
+
+opacity: 0.81;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 55px;
+height: 3.67px;
+left: 615px;
+top: 512px;
+
+opacity: 0.78;
+
+
+/* Rectangle 48 */
+
+position: absolute;
+width: 55px;
+height: 3.67px;
+left: 615px;
+top: 512px;
+
+background: #000000;
+opacity: 0.96;
+
+
+/* India */
+
+position: absolute;
+width: 10.19px;
+height: 3.26px;
+left: 616.22px;
+top: 512.41px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 4.07407px;
+line-height: 216%;
+/* or 9px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+
+
+/* Innovation */
+
+position: absolute;
+width: 25.67px;
+height: 3.26px;
+left: 629.26px;
+top: 512.41px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 4.07407px;
+line-height: 216%;
+/* or 9px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+
+
+/* x */
+
+position: absolute;
+width: 2.04px;
+height: 3.67px;
+left: 626.41px;
+top: 512px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 4.07407px;
+line-height: 216%;
+/* or 9px */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+color: #6DB029;
+
+
+
+/* Group 5 */
+
+position: absolute;
+width: 55px;
+height: 3.67px;
+left: 821px;
+top: 485px;
+
+opacity: 0.78;
+
+
+/* Rectangle 48 */
+
+position: absolute;
+width: 55px;
+height: 3.67px;
+left: 821px;
+top: 485px;
+
+background: #000000;
+opacity: 0.96;
+
+
+/* India */
+
+position: absolute;
+width: 10.19px;
+height: 3.26px;
+left: 822.22px;
+top: 485.41px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 4.07407px;
+line-height: 216%;
+/* or 9px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+
+
+/* Innovation */
+
+position: absolute;
+width: 25.67px;
+height: 3.26px;
+left: 835.26px;
+top: 485.41px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 4.07407px;
+line-height: 216%;
+/* or 9px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+
+
+/* x */
+
+position: absolute;
+width: 2.04px;
+height: 3.67px;
+left: 832.41px;
+top: 485px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 4.07407px;
+line-height: 216%;
+/* or 9px */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+color: #6DB029;
+
+
+
+/* Group 6 */
+
+position: absolute;
+width: 55px;
+height: 3.67px;
+left: 1068px;
+top: 502px;
+
+opacity: 0.78;
+
+
+/* Rectangle 48 */
+
+position: absolute;
+width: 55px;
+height: 3.67px;
+left: 1068px;
+top: 502px;
+
+background: #000000;
+opacity: 0.96;
+
+
+/* India */
+
+position: absolute;
+width: 10.19px;
+height: 3.26px;
+left: 1069.22px;
+top: 502.41px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 4.07407px;
+line-height: 216%;
+/* or 9px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+
+
+/* Innovation */
+
+position: absolute;
+width: 25.67px;
+height: 3.26px;
+left: 1082.26px;
+top: 502.41px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 4.07407px;
+line-height: 216%;
+/* or 9px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+
+
+/* x */
+
+position: absolute;
+width: 2.04px;
+height: 3.67px;
+left: 1079.41px;
+top: 502px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 4.07407px;
+line-height: 216%;
+/* or 9px */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+color: #6DB029;
+
+
+
+/* Group 7 */
+
+position: absolute;
+width: 55px;
+height: 3.67px;
+left: 1284px;
+top: 543px;
+
+
+
+/* Rectangle 48 */
+
+position: absolute;
+width: 55px;
+height: 3.67px;
+left: 1284px;
+top: 543px;
+
+background: #000000;
+opacity: 0.96;
+
+
+/* India */
+
+position: absolute;
+width: 10.19px;
+height: 3.26px;
+left: 1285.22px;
+top: 543.41px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 4.07407px;
+line-height: 216%;
+/* or 9px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+
+
+/* Innovation */
+
+position: absolute;
+width: 25.67px;
+height: 3.26px;
+left: 1298.26px;
+top: 543.41px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 4.07407px;
+line-height: 216%;
+/* or 9px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+
+
+/* x */
+
+position: absolute;
+width: 2.04px;
+height: 3.67px;
+left: 1295.41px;
+top: 543px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 4.07407px;
+line-height: 216%;
+/* or 9px */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+color: #6DB029;
+
+
+
+/* Group 8 */
+
+position: absolute;
+width: 55px;
+height: 3.67px;
+left: 1467px;
+top: 586px;
+
+opacity: 0.78;
+
+
+/* Rectangle 48 */
+
+position: absolute;
+width: 55px;
+height: 3.67px;
+left: 1467px;
+top: 586px;
+
+background: #000000;
+opacity: 0.96;
+
+
+/* India */
+
+position: absolute;
+width: 10.19px;
+height: 3.26px;
+left: 1468.22px;
+top: 586.41px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 4.07407px;
+line-height: 216%;
+/* or 9px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+
+
+/* Innovation */
+
+position: absolute;
+width: 25.67px;
+height: 3.26px;
+left: 1481.26px;
+top: 586.41px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 4.07407px;
+line-height: 216%;
+/* or 9px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+
+
+/* x */
+
+position: absolute;
+width: 2.04px;
+height: 3.67px;
+left: 1478.41px;
+top: 586px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 4.07407px;
+line-height: 216%;
+/* or 9px */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+color: #6DB029;
+
+
+
+/* Group 9 */
+
+position: absolute;
+width: 55px;
+height: 3.67px;
+left: 1652px;
+top: 603px;
+
+opacity: 0.78;
+
+
+/* Rectangle 48 */
+
+position: absolute;
+width: 55px;
+height: 3.67px;
+left: 1652px;
+top: 603px;
+
+background: #000000;
+opacity: 0.96;
+
+
+/* India */
+
+position: absolute;
+width: 10.19px;
+height: 3.26px;
+left: 1653.22px;
+top: 603.41px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 4.07407px;
+line-height: 216%;
+/* or 9px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+
+
+/* Innovation */
+
+position: absolute;
+width: 25.67px;
+height: 3.26px;
+left: 1666.26px;
+top: 603.41px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 4.07407px;
+line-height: 216%;
+/* or 9px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+
+
+/* x */
+
+position: absolute;
+width: 2.04px;
+height: 3.67px;
+left: 1663.41px;
+top: 603px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 4.07407px;
+line-height: 216%;
+/* or 9px */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+color: #6DB029;
+
+
+
+/* Group 2 */
+
+position: absolute;
+width: 55px;
+height: 5.67px;
+left: 436px;
+top: 547px;
+
+opacity: 0.78;
+
+
+/* Rectangle 48 */
+
+position: absolute;
+width: 55px;
+height: 5.67px;
+left: 436px;
+top: 547px;
+
+background: #000000;
+opacity: 0.96;
+
+
+/* India */
+
+position: absolute;
+width: 10.19px;
+height: 5.04px;
+left: 437.22px;
+top: 547.63px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 4.07407px;
+line-height: 216%;
+/* or 9px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+
+
+/* Innovation */
+
+position: absolute;
+width: 25.67px;
+height: 5.04px;
+left: 450.26px;
+top: 547.63px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 4.07407px;
+line-height: 216%;
+/* or 9px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+
+
+/* x */
+
+position: absolute;
+width: 2.04px;
+height: 5.67px;
+left: 447.41px;
+top: 547px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 4.07407px;
+line-height: 216%;
+/* or 9px */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+color: #6DB029;
+
+
+
+/* Group 3 */
+
+position: absolute;
+width: 55px;
+height: 3.67px;
+left: 272px;
+top: 589px;
+
+opacity: 0.78;
+
+
+/* Rectangle 48 */
+
+position: absolute;
+width: 55px;
+height: 3.67px;
+left: 272px;
+top: 589px;
+
+background: #000000;
+opacity: 0.96;
+
+
+/* India */
+
+position: absolute;
+width: 10.19px;
+height: 3.26px;
+left: 273.22px;
+top: 589.41px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 4.07407px;
+line-height: 216%;
+/* or 9px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+
+
+/* Innovation */
+
+position: absolute;
+width: 25.67px;
+height: 3.26px;
+left: 286.26px;
+top: 589.41px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 4.07407px;
+line-height: 216%;
+/* or 9px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+
+
+/* x */
+
+position: absolute;
+width: 2.04px;
+height: 3.67px;
+left: 283.41px;
+top: 589px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 4.07407px;
+line-height: 216%;
+/* or 9px */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+color: #6DB029;
+
+
+
+/* Group 4 */
+
+position: absolute;
+width: 55px;
+height: 3.67px;
+left: 113px;
+top: 604px;
+
+opacity: 0.78;
+
+
+/* Rectangle 48 */
+
+position: absolute;
+width: 55px;
+height: 3.67px;
+left: 113px;
+top: 604px;
+
+background: #000000;
+opacity: 0.96;
+
+
+/* India */
+
+position: absolute;
+width: 10.19px;
+height: 3.26px;
+left: 114.22px;
+top: 604.41px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 4.07407px;
+line-height: 216%;
+/* or 9px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+
+
+/* Innovation */
+
+position: absolute;
+width: 25.67px;
+height: 3.26px;
+left: 127.26px;
+top: 604.41px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 4.07407px;
+line-height: 216%;
+/* or 9px */
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+
+
+/* x */
+
+position: absolute;
+width: 2.04px;
+height: 3.67px;
+left: 124.41px;
+top: 604px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 4.07407px;
+line-height: 216%;
+/* or 9px */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+color: #6DB029;
+
+
+
+/* Words Bubble - iconSvg.co */
+
+position: relative;
+width: 800px;
+height: 800px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: -1.5%;
+right: 70.26%;
+top: 10.62%;
+bottom: 59.5%;
+
+background: #888984;
+transform: matrix(0.96, 0.27, -0.26, 0.97, 0, 0);
+
+
+/* Line 1 */
+
+position: absolute;
+left: 12.88%;
+right: 65.25%;
+top: 18.25%;
+bottom: 81.75%;
+
+border: 1px solid #FFFFFF;
+transform: rotate(90deg);

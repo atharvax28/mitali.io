@@ -1,0 +1,1576 @@
+/* D3 */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #FFFFFF;
+
+
+/* Screenshot 2025-02-21 220718 2 */
+
+position: absolute;
+width: 889px;
+height: 585px;
+left: 2409px;
+top: 172px;
+
+background: url(Screenshot 2025-02-21 220718.png);
+
+
+/* Benchmarking and Insights */
+
+position: absolute;
+width: 746px;
+height: 48px;
+left: 58px;
+top: 30px;
+
+/* Header 3 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 132%;
+/* identical to box height, or 48px */
+letter-spacing: -0.02em;
+
+color: #6DB029;
+
+
+
+/* Screenshot 2025-02-22 at 9.56.50 PM 1 */
+
+position: absolute;
+width: 963px;
+height: 665px;
+left: 852px;
+top: 180px;
+
+
+
+/* Screenshot 2025-02-22 at 9.56.50 PM 2 */
+
+position: absolute;
+width: 895px;
+height: 598px;
+
+background: url(Screenshot 2025-02-22 at 9.56.50 PM.png);
+
+
+/* D7 dis */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #FFFFFF;
+
+
+/* Screenshot 2025-02-21 220718 2 */
+
+position: absolute;
+width: 889px;
+height: 585px;
+left: 2409px;
+top: 172px;
+
+background: url(Screenshot 2025-02-21 220718.png);
+
+
+/* Journey mapping */
+
+position: absolute;
+width: 621px;
+height: 48px;
+left: 58px;
+top: 30px;
+
+/* Header 3 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 132%;
+/* identical to box height, or 48px */
+letter-spacing: -0.02em;
+
+color: #6DB029;
+
+
+
+/* Screenshot 2025-02-22 010208 1 */
+
+position: absolute;
+width: 948.35px;
+height: 619.69px;
+left: 736px;
+top: 124px;
+
+background: url(Screenshot 2025-02-22 010208.png);
+
+
+/* Screenshot 2025-02-21 213335 2 */
+
+position: absolute;
+width: 0px;
+height: 0px;
+left: 105px;
+top: 860px;
+
+background: url(Screenshot 2025-02-21 213335.png);
+
+
+/* The map shows user’s behavior during the usability testing that was done for the current portal. A usability testing done with one person. We gave them the task of navigating the website. Environmental Setting- Call Room Time of testing- 20 Minutes Testing done by 'Think Aloud' Protocol. The user is told to speak out whatever they are thinking while using the site. */
+
+position: absolute;
+width: 489px;
+height: 252px;
+left: 65px;
+top: 734px;
+
+/* Body 3 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 132%;
+/* or 21px */
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+
+color: #000000;
+
+
+
+/* Selecting the right option in moving carousal menu The intuition of click not leading to an action- False clicks To get a gist of the offering that make the portal different from other internal office knowledge portals. */
+
+position: absolute;
+width: 555px;
+height: 119px;
+left: 763px;
+top: 791px;
+
+/* Body 3 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 132%;
+/* or 21px */
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+
+color: #000000;
+
+
+
+/* Pain points */
+
+position: absolute;
+width: 89px;
+height: 21px;
+left: 763px;
+top: 754px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 132%;
+/* or 21px */
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+
+color: #000000;
+
+
+
+/* Gain points */
+
+position: absolute;
+width: 90px;
+height: 21px;
+left: 1357px;
+top: 754px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 132%;
+/* or 21px */
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+
+color: #000000;
+
+
+
+/* Once the user goes beyond home page, they can navigate between pages smoothly with top navigation bar. Report title gain attention. They like the concept of submitting ideas. */
+
+position: absolute;
+width: 493px;
+height: 90px;
+left: 1357px;
+top: 802px;
+
+/* Body 3 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 132%;
+/* or 21px */
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+
+color: #000000;
+
+
+
+/* Screenshot 2025-02-22 010138 1 */
+
+position: absolute;
+width: 610px;
+height: 455px;
+left: 58px;
+top: 128px;
+
+background: url(Screenshot 2025-02-22 010138.png);
+
+
+/* D7 disc 1 */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #FFFFFF;
+
+
+/* Screenshot 2025-02-21 220718 2 */
+
+position: absolute;
+width: 889px;
+height: 585px;
+left: 2409px;
+top: 172px;
+
+background: url(Screenshot 2025-02-21 220718.png);
+
+
+/* Journey mapping */
+
+position: absolute;
+width: 622px;
+height: 48px;
+left: 50px;
+top: 48px;
+
+/* Header 3 */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 132%;
+/* identical to box height, or 48px */
+letter-spacing: -0.02em;
+
+color: #6DB029;
+
+
+
+/* Screenshot 2025-02-21 213335 2 */
+
+position: absolute;
+width: 0px;
+height: 0px;
+left: 97px;
+top: 765px;
+
+background: url(Screenshot 2025-02-21 213335.png);
+
+
+/* The map shows user’s behavior during the usability testing that was done for the current portal. A usability testing done with one person. We gave them the task of navigating the website. Environmental Setting- Call Room Time of testing- 30 Minutes Testing done by 'Think Aloud' Protocol. The user is told to speak out whatever they are thinking while using the site. */
+
+position: absolute;
+width: 356px;
+height: 297px;
+left: 48px;
+top: 464px;
+
+/* Body 3 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 132%;
+/* or 21px */
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+
+color: #000000;
+
+
+
+/* Screenshot 2025-02-22 010138 1 */
+
+position: absolute;
+width: 379px;
+height: 282px;
+left: 49px;
+top: 149px;
+
+background: url(Screenshot 2025-02-22 010138.png);
+
+
+/* experience map (1) 1 */
+
+position: absolute;
+width: 1392px;
+height: 793px;
+left: 476px;
+top: 171px;
+
+background: url(experience map (1).png);
+
+
+/* Rectangle 30 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1409px;
+height: 822px;
+left: 465px;
+top: 157px;
+
+border: 1px solid #C0F18F;
+
+
+/* Screenshot 2025-02-22 at 7.28.02 PM 11 */
+
+position: absolute;
+width: 86px;
+height: 112px;
+
+
+
+/* Screenshot 2025-02-22 at 7.28.02 PM 10 */
+
+position: absolute;
+width: 35px;
+height: 45px;
+
+
+
+/* Rectangle 17 */
+
+position: absolute;
+width: 198px;
+height: 122px;
+
+background: #C0F18F;
+
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 79px;
+height: 73px;
+
+background: #C0F18F;
+
+
+/* TIA the company chatbot asks “What’s your IDEA today?” or Notifies “Report you would like to read” Showcase ‘Innovation in use’ at Deloitte. */
+
+position: absolute;
+width: 186px;
+height: 119px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* TIA the company chatbot asks “What’s your IDEA today?” or Notifies “Report you would like to read” Showcase ‘Innovation in use’ at Deloitte. */
+
+position: absolute;
+width: 67px;
+height: 26px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* https://marutitech.com/hotel-industry-ai-awesome-user-experience/ */
+
+position: absolute;
+width: 392px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Screenshot 2025-02-28 231407 1 */
+
+position: absolute;
+width: 968px;
+height: 587px;
+
+background: url(Screenshot 2025-02-28 231407.png);
+
+
+/* experience map */
+
+position: relative;
+width: 1999px;
+height: 1214px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 29 */
+
+position: absolute;
+width: 1860px;
+height: 290px;
+left: 68px;
+top: 847px;
+
+background: #C0F18F;
+
+
+/* Rectangle 23 */
+
+position: absolute;
+width: 1859px;
+height: 129px;
+left: 69px;
+top: 73px;
+
+background: #C0F18F;
+
+
+/* Rectangle 21 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1907px;
+height: 1098px;
+left: 46px;
+top: 48px;
+
+border: 1px solid #6DB029;
+
+
+/* Scroll through the page */
+
+position: absolute;
+width: 90px;
+height: 32px;
+left: 218px;
+top: 87px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Click on sensing option from navigation carousal */
+
+position: absolute;
+width: 61px;
+height: 96px;
+left: 356px;
+top: 87px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Land on Innovation channel page */
+
+position: absolute;
+width: 61px;
+height: 64px;
+left: 465px;
+top: 87px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Land on Innovation channel page */
+
+position: absolute;
+width: 61px;
+height: 64px;
+left: 595px;
+top: 83px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Click on back (Browser back option) */
+
+position: absolute;
+width: 63px;
+height: 80px;
+left: 704px;
+top: 83px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+
+color: #000000;
+
+
+
+/* Click on sensing option from navigation carousal */
+
+position: absolute;
+width: 62px;
+height: 96px;
+left: 815px;
+top: 87px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+
+color: #000000;
+
+
+
+/* Sensing Page */
+
+position: absolute;
+width: 49px;
+height: 32px;
+left: 925px;
+top: 87px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+
+color: #000000;
+
+
+
+/* Open an article */
+
+position: absolute;
+width: 51px;
+height: 32px;
+left: 1022px;
+top: 87px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+
+color: #000000;
+
+
+
+/* Close article pop-up */
+
+position: absolute;
+width: 41px;
+height: 48px;
+left: 1113px;
+top: 87px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Click on Idea Anytime page in top navigation bar */
+
+position: absolute;
+width: 67px;
+height: 96px;
+left: 1202px;
+top: 87px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+
+color: #000000;
+
+
+
+/* Click on Deloitte Logo */
+
+position: absolute;
+width: 49px;
+height: 48px;
+left: 1317px;
+top: 88px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+
+color: #000000;
+
+
+
+/* Click on home option */
+
+position: absolute;
+width: 49px;
+height: 48px;
+left: 1424px;
+top: 87px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+
+color: #000000;
+
+
+
+/* Click on account icon */
+
+position: absolute;
+width: 49px;
+height: 48px;
+left: 1521px;
+top: 87px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+
+color: #000000;
+
+
+
+/* Click on ‘site contact’ Close pop- up email box */
+
+position: absolute;
+width: 80px;
+height: 80px;
+left: 1606px;
+top: 83px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+
+color: #000000;
+
+
+
+/* Redirected to different site */
+
+position: absolute;
+width: 67px;
+height: 48px;
+left: 1708px;
+top: 87px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+
+color: #000000;
+
+
+
+/* Close tab */
+
+position: absolute;
+width: 54px;
+height: 16px;
+left: 1811px;
+top: 88px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 132%;
+/* identical to box height, or 16px */
+
+color: #000000;
+
+
+
+/* Scrolling through the home page and want to visit the sensing page. */
+
+position: absolute;
+width: 308px;
+height: 32px;
+left: 215px;
+top: 506px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+
+color: #000000;
+
+
+
+/* Rectangle 25 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1859px;
+height: 236px;
+left: 69px;
+top: 216px;
+
+border: 1px solid #C0F18F;
+
+
+/* Rectangle 26 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1860px;
+height: 113px;
+left: 68px;
+top: 466px;
+
+border: 1px solid #C0F18F;
+
+
+/* Rectangle 27 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1859px;
+height: 113px;
+left: 69px;
+top: 593px;
+
+border: 1px solid #C0F18F;
+
+
+/* Rectangle 28 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1859px;
+height: 113px;
+left: 69px;
+top: 720px;
+
+border: 1px solid #C0F18F;
+
+
+/* Task */
+
+position: absolute;
+width: 91px;
+height: 24px;
+left: 82px;
+top: 87px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Experience */
+
+position: absolute;
+width: 91px;
+height: 57px;
+left: 81px;
+top: 237px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Doing */
+
+position: absolute;
+width: 91px;
+height: 57px;
+left: 81px;
+top: 500px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Thinking */
+
+position: absolute;
+width: 91px;
+height: 57px;
+left: 82px;
+top: 613px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Feeling */
+
+position: absolute;
+width: 91px;
+height: 57px;
+left: 82px;
+top: 754px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Pain points */
+
+position: absolute;
+width: 91px;
+height: 16px;
+left: 82px;
+top: 868px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 132%;
+/* identical to box height, or 16px */
+
+color: #000000;
+
+
+
+/* Gain points */
+
+position: absolute;
+width: 91px;
+height: 16px;
+left: 1109px;
+top: 869px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 132%;
+/* identical to box height, or 16px */
+
+color: #000000;
+
+
+
+/* Scrolling through the sensing page. Click on an article to read. Just have a glance and close it. Look at ‘Idea anytime’ and click to explore. */
+
+position: absolute;
+width: 272px;
+height: 48px;
+left: 814px;
+top: 500px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+
+color: #000000;
+
+
+
+/* Clicking on logo, account, contact site to explore the site. Click on resources option. */
+
+position: absolute;
+width: 329px;
+height: 32px;
+left: 1315px;
+top: 502px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+
+color: #000000;
+
+
+
+/* What is does this innovation portal offer? What does sensing have? Why are the videos and options moving? It is disturbing to select an option. Oh, wrong page. Give another try to reach sensing page. */
+
+position: absolute;
+width: 322px;
+height: 64px;
+left: 215px;
+top: 611px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+
+color: #000000;
+
+
+
+/* Oh, this particular article seems interesting by reading the title. Too long read. I’ll just have a glance for now, maybe read the entire article later. */
+
+position: absolute;
+width: 264px;
+height: 64px;
+left: 818px;
+top: 612px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+
+color: #000000;
+
+
+
+/* Doesn’t clicking on the logo take to home page? Why the account icon? Is this linked to my company DPN? Oh, resources takes to a new portal. */
+
+position: absolute;
+width: 326px;
+height: 48px;
+left: 1315px;
+top: 611px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+
+color: #000000;
+
+
+
+/* Confused and frustrated. Wondering how is this portal different from other knowledge portals? */
+
+position: absolute;
+width: 311px;
+height: 32px;
+left: 214px;
+top: 753px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+
+color: #000000;
+
+
+
+/* Satisfied and impatient */
+
+position: absolute;
+width: 131px;
+height: 16px;
+left: 820px;
+top: 754px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 132%;
+/* identical to box height, or 16px */
+
+color: #000000;
+
+
+
+/* Inquisitive and confused */
+
+position: absolute;
+width: 125px;
+height: 16px;
+left: 1314px;
+top: 758px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 132%;
+/* identical to box height, or 16px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Selecting the right option in moving carousal menu The intuition of click not leading to an action- False clicks To get a gist of the offering that make the portal different from other internal office knowledge portals. The report notification email might go unnoticed with all pending emails. Loose patience if the report is lengthy Too many emails. Longer reads. Fast moving click options. Can reach portal only via emails and that needs extra effort. */
+
+position: absolute;
+width: 446px;
+height: 260px;
+left: 227px;
+top: 865px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 215%;
+/* or 26px */
+
+color: #000000;
+
+
+
+/* Selecting the right option in moving carousal menu The intuition of click not leading to an action- False clicks To get a gist of the offering that make the portal different from other internal office knowledge portals. If the report sent is of their interest, they will click to read and gain insights. Might lead to them revisiting the portal */
+
+position: absolute;
+width: 424px;
+height: 156px;
+left: 1280px;
+top: 866px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 215%;
+/* or 26px */
+
+color: #000000;
+
+
+
+/* Vector 6 */
+
+position: absolute;
+width: 5.71px;
+height: 15.24px;
+left: 932.5px;
+top: 657.14px;
+
+border: 3px solid #000000;
+
+
+/* Vector 7 */
+
+position: absolute;
+width: 60px;
+height: 66px;
+left: 227.34px;
+top: 245.27px;
+
+border: 3px solid #FFFFFF;
+transform: rotate(1.17deg);
+
+
+/* Vector 8 */
+
+position: absolute;
+width: 1618px;
+height: 131px;
+left: 235.78px;
+top: 256.47px;
+
+border: 2px solid #595959;
+transform: rotate(1.17deg);
+
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 13px;
+height: 12px;
+left: 235.89px;
+top: 272.42px;
+
+background: #FFF200;
+transform: rotate(1.17deg);
+
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 13px;
+height: 12px;
+left: 375.83px;
+top: 374.31px;
+
+background: #D2232A;
+transform: rotate(1.17deg);
+
+
+/* Ellipse 5 */
+
+position: absolute;
+width: 14px;
+height: 12px;
+left: 525.88px;
+top: 373.38px;
+
+background: #D2232A;
+transform: rotate(1.17deg);
+
+
+/* Ellipse 6 */
+
+position: absolute;
+width: 13px;
+height: 12px;
+left: 660.02px;
+top: 368.13px;
+
+background: #D2232A;
+transform: rotate(1.17deg);
+
+
+/* Ellipse 7 */
+
+position: absolute;
+width: 13px;
+height: 12px;
+left: 917.15px;
+top: 266.37px;
+
+background: #87BD40;
+transform: rotate(1.17deg);
+
+
+/* Ellipse 8 */
+
+position: absolute;
+width: 14px;
+height: 12px;
+left: 1003.89px;
+top: 329.16px;
+
+background: #FFF200;
+transform: rotate(1.17deg);
+
+
+/* Ellipse 10 */
+
+position: absolute;
+width: 14px;
+height: 12px;
+left: 1207.53px;
+top: 397.35px;
+
+background: #D2232A;
+transform: rotate(1.17deg);
+
+
+/* Ellipse 11 */
+
+position: absolute;
+width: 13px;
+height: 12px;
+left: 1349px;
+top: 327.23px;
+
+background: #6DB029;
+transform: rotate(1.17deg);
+
+
+/* Ellipse 12 */
+
+position: absolute;
+width: 13px;
+height: 12px;
+left: 1425.94px;
+top: 379.81px;
+
+background: #D2232A;
+transform: rotate(1.17deg);
+
+
+/* Ellipse 13 */
+
+position: absolute;
+width: 13px;
+height: 12px;
+left: 1575.86px;
+top: 384.88px;
+
+background: #D2232A;
+transform: rotate(1.17deg);
+
+
+/* Ellipse 14 */
+
+position: absolute;
+width: 13px;
+height: 12px;
+left: 1678.56px;
+top: 351.98px;
+
+background: #FFF200;
+transform: rotate(1.17deg);
+
+
+/* Ellipse 15 */
+
+position: absolute;
+width: 13px;
+height: 12px;
+left: 1725.87px;
+top: 385.96px;
+
+background: #D2232A;
+transform: rotate(1.17deg);
+
+
+/* Ellipse 16 */
+
+position: absolute;
+width: 13px;
+height: 12px;
+left: 1848.32px;
+top: 414.47px;
+
+background: #D2232A;
+transform: rotate(1.17deg);
+
+
+/* Why does this menu keep sliding? */
+
+position: absolute;
+width: 89px;
+height: 61px;
+left: 363px;
+top: 298px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* This time I should land on the correct page */
+
+position: absolute;
+width: 62px;
+height: 61px;
+left: 647px;
+top: 282px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 132%;
+/* or 16px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Good topics! */
+
+position: absolute;
+width: 74px;
+height: 16px;
+left: 857px;
+top: 238px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 132%;
+/* identical to box height, or 16px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Is the page stuck? or crashed? This is taking too long */
+
+position: absolute;
+width: 110px;
+height: 16px;
+left: 1038px;
+top: 290px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 132%;
+/* identical to box height, or 16px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* This isn’t clickable? */
+
+position: absolute;
+width: 109px;
+height: 16px;
+left: 1166px;
+top: 348px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 132%;
+/* identical to box height, or 16px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Wow! I didn’t know about this. This is great */
+
+position: absolute;
+width: 109px;
+height: 16px;
+left: 1324px;
+top: 259px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 132%;
+/* identical to box height, or 16px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* No account details? */
+
+position: absolute;
+width: 110px;
+height: 16px;
+left: 1430px;
+top: 331px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 132%;
+/* identical to box height, or 16px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Oops */
+
+position: absolute;
+width: 109px;
+height: 16px;
+left: 1575px;
+top: 394px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 132%;
+/* identical to box height, or 16px */
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+
+/* Line 2 */
+
+position: absolute;
+width: 250px;
+height: 0px;
+left: calc(50% - 250px/2 + 124.5px);
+top: 866px;
+
+border: 1px solid #000000;
+transform: rotate(90deg);
+
+
+/* cropped 1 */
+
+position: absolute;
+width: 1615px;
+height: 226px;
+
+background: url(cropped.png);

@@ -1,0 +1,219 @@
+{
+  "color": {
+    "primary": {
+      "$value": "#22181c",
+      "$type": "color"
+    },
+    "secondary": {
+      "$value": "#fe8357",
+      "$type": "color"
+    },
+    "accent": {
+      "$value": "#ffede8",
+      "$type": "color"
+    },
+    "neutral-0": {
+      "$value": "#000000",
+      "$type": "color"
+    },
+    "neutral-1": {
+      "$value": "#ffffff",
+      "$type": "color"
+    },
+    "background-0": {
+      "$value": "#ffffff",
+      "$type": "color"
+    },
+    "background-1": {
+      "$value": "#ffede8",
+      "$type": "color"
+    },
+    "text-0": {
+      "$value": "#000000",
+      "$type": "color"
+    },
+    "text-1": {
+      "$value": "#22181c",
+      "$type": "color"
+    },
+    "text-2": {
+      "$value": "#ffffff",
+      "$type": "color"
+    },
+    "text-3": {
+      "$value": "#fe8357",
+      "$type": "color"
+    },
+    "text-4": {
+      "$value": "#fa452a",
+      "$type": "color"
+    }
+  },
+  "fontFamily": {
+    "proxima-nova": {
+      "$value": "proxima-nova",
+      "$type": "fontFamily"
+    },
+    "body": {
+      "$value": "sans-serif",
+      "$type": "fontFamily"
+    },
+    "heading": {
+      "$value": "adobe-caslon-pro",
+      "$type": "fontFamily"
+    }
+  },
+  "fontSize": {
+    "0": {
+      "$value": "0px",
+      "$type": "dimension"
+    },
+    "10": {
+      "$value": "10px",
+      "$type": "dimension"
+    },
+    "16": {
+      "$value": "16px",
+      "$type": "dimension"
+    },
+    "48": {
+      "$value": "48px",
+      "$type": "dimension"
+    },
+    "43.648": {
+      "$value": "43.648px",
+      "$type": "dimension"
+    },
+    "31.36": {
+      "$value": "31.36px",
+      "$type": "dimension"
+    },
+    "21.0432": {
+      "$value": "21.0432px",
+      "$type": "dimension"
+    },
+    "17.536": {
+      "$value": "17.536px",
+      "$type": "dimension"
+    },
+    "14.464": {
+      "$value": "14.464px",
+      "$type": "dimension"
+    }
+  },
+  "spacing": {
+    "0": {
+      "$value": "1px",
+      "$type": "dimension"
+    },
+    "1": {
+      "$value": "13px",
+      "$type": "dimension"
+    },
+    "2": {
+      "$value": "24px",
+      "$type": "dimension"
+    },
+    "3": {
+      "$value": "38px",
+      "$type": "dimension"
+    },
+    "4": {
+      "$value": "48px",
+      "$type": "dimension"
+    },
+    "5": {
+      "$value": "64px",
+      "$type": "dimension"
+    },
+    "6": {
+      "$value": "84px",
+      "$type": "dimension"
+    },
+    "7": {
+      "$value": "96px",
+      "$type": "dimension"
+    },
+    "8": {
+      "$value": "127px",
+      "$type": "dimension"
+    },
+    "9": {
+      "$value": "295px",
+      "$type": "dimension"
+    },
+    "10": {
+      "$value": "328px",
+      "$type": "dimension"
+    },
+    "11": {
+      "$value": "340px",
+      "$type": "dimension"
+    },
+    "12": {
+      "$value": "393px",
+      "$type": "dimension"
+    },
+    "13": {
+      "$value": "412px",
+      "$type": "dimension"
+    },
+    "14": {
+      "$value": "443px",
+      "$type": "dimension"
+    },
+    "15": {
+      "$value": "451px",
+      "$type": "dimension"
+    },
+    "16": {
+      "$value": "467px",
+      "$type": "dimension"
+    },
+    "17": {
+      "$value": "480px",
+      "$type": "dimension"
+    },
+    "18": {
+      "$value": "490px",
+      "$type": "dimension"
+    }
+  },
+  "borderRadius": {},
+  "shadow": {
+    "sm": {
+      "$value": "rgba(255, 255, 255, 0) 3.5072px 0px 0px 0px, rgba(255, 255, 255, 0) -3.5072px 0px 0px 0px",
+      "$type": "shadow"
+    }
+  },
+  "breakpoint": {
+    "sm": {
+      "$value": "640px",
+      "$type": "dimension"
+    },
+    "575px": {
+      "$value": "575px",
+      "$type": "dimension"
+    },
+    "md": {
+      "$value": "769px",
+      "$type": "dimension"
+    },
+    "lg": {
+      "$value": "1025px",
+      "$type": "dimension"
+    },
+    "1099px": {
+      "$value": "1099px",
+      "$type": "dimension"
+    },
+    "1199px": {
+      "$value": "1199px",
+      "$type": "dimension"
+    },
+    "xl": {
+      "$value": "1281px",
+      "$type": "dimension"
+    }
+  }
+}
