@@ -3,6 +3,7 @@ import { useLocation, Link } from 'react-router';
 import { cn } from '@/lib/utils';
 import { AnimatedButton } from './AnimatedButton';
 import { navigationConfig } from '@/config';
+import * as LucideIcons from 'lucide-react';
 
 export function Navigation() {
   if (!navigationConfig.logo && navigationConfig.links.length === 0) return null;
@@ -14,6 +15,7 @@ export function Navigation() {
 
 
   const isHomePage = location.pathname === '/';
+  const links = navigationConfig.links;
 
   useEffect(() => {
     // Fade in navbar after page load
@@ -106,82 +108,126 @@ export function Navigation() {
               </div>
             )}
 
-            {/* Mobile Menu Button */}
+            {/* Mobile Menu Button (Hamburger - PRO ANIMATED) */}
             {navigationConfig.links.length > 0 && (
               <button
-                onClick={() => setIsMenuOpen(!isMenuOpen)}
-                className="lg:hidden relative w-8 h-6 flex flex-col justify-between"
-                aria-label="Toggle menu"
+                onClick={() => setIsMenuOpen(true)}
+                className="lg:hidden relative flex items-center justify-center w-12 h-12 -mr-3 text-exvia-black focus:outline-none"
+                aria-label="Open menu"
+                aria-expanded={isMenuOpen}
+                aria-controls="mobileDrawer"
               >
-                <span
-                  className={cn(
-                    'w-full h-0.5 transition-all duration-500 ease-out-quad origin-center',
-                    (isScrolled || !isHomePage) ? 'bg-exvia-black' : 'bg-white',
-                    isMenuOpen && 'translate-y-[10px] rotate-[-45deg]'
-                  )}
-                />
-                <span
-                  className={cn(
-                    'w-full h-0.5 transition-all duration-300 ease-out-quad',
-                    (isScrolled || !isHomePage) ? 'bg-exvia-black' : 'bg-white',
-                    isMenuOpen && 'scale-0 opacity-0'
-                  )}
-                />
-                <span
-                  className={cn(
-                    'w-full h-0.5 transition-all duration-500 ease-out-quad origin-center',
-                    (isScrolled || !isHomePage) ? 'bg-exvia-black' : 'bg-white',
-                    isMenuOpen && '-translate-y-[10px] rotate-[45deg]'
-                  )}
-                />
+                <div className="relative w-6 h-5 overflow-hidden flex flex-col justify-between group">
+                  <span
+                    className={cn(
+                      'w-full h-[1.5px] transition-all duration-500 ease-out-quart transform-gpu',
+                      (isScrolled || !isHomePage) ? 'bg-exvia-black' : 'bg-white'
+                    )}
+                  />
+                  <span
+                    className={cn(
+                      'w-full h-[1.5px] transition-all duration-500 ease-out-quart transform-gpu',
+                      (isScrolled || !isHomePage) ? 'bg-exvia-black' : 'bg-white'
+                    )}
+                  />
+                  <span
+                    className={cn(
+                      'w-[60%] ml-auto h-[1.5px] transition-all duration-500 ease-out-quart transform-gpu',
+                      (isScrolled || !isHomePage) ? 'bg-exvia-black' : 'bg-white'
+                    )}
+                  />
+                </div>
               </button>
             )}
           </div>
         </div>
       </nav>
 
-    {/* Mobile Menu Overlay */}
-    {navigationConfig.links.length > 0 && (
+      {/* Mobile Drawer Scrim */}
       <div
         className={cn(
-          'fixed inset-0 z-40 bg-white transition-all duration-500 ease-out-cubic lg:hidden',
-          isMenuOpen ? 'opacity-100 visible' : 'opacity-0 invisible pointer-events-none'
+          'fixed inset-0 z-[60] bg-exvia-black/40 backdrop-blur-[4px] transition-opacity duration-500 lg:hidden',
+          isMenuOpen ? 'opacity-100 pointer-events-auto' : 'opacity-0 pointer-events-none'
         )}
+        onClick={() => setIsMenuOpen(false)}
+        aria-hidden="true"
+      />
+
+      {/* Mobile Menu Overlay (Full-screen as per reference) */}
+      <nav
+        id="mobileDrawer"
+        className={cn(
+          'fixed inset-0 z-[100] bg-exvia-black/95 backdrop-blur-[20px] transition-all duration-700 ease-out-quart lg:hidden flex flex-col',
+          isMenuOpen ? 'opacity-100 pointer-events-auto' : 'opacity-0 pointer-events-none'
+        )}
+        aria-hidden={!isMenuOpen}
+        aria-label="Mobile navigation"
       >
-        <div className="flex flex-col items-center justify-center h-full gap-8">
-          {navigationConfig.links.map((link, index) => (
-            <Link
-              key={link.label}
-              to={isHomePage ? link.href : `/${link.href}`}
-              onClick={(e) => handleNavClick(e as any, link.href)}
-              className={cn(
-                'text-3xl font-semibold text-exvia-black transition-all duration-500 ease-out-quart',
-                isMenuOpen
-                  ? 'opacity-100 translate-y-0'
-                  : 'opacity-0 translate-y-8'
-              )}
-              style={{ transitionDelay: isMenuOpen ? `${index * 100}ms` : '0ms' }}
-            >
-              {link.label}
-            </Link>
-          ))}
-          {navigationConfig.contactLabel && (
-            <AnimatedButton
-              href={isHomePage ? navigationConfig.contactHref : `/${navigationConfig.contactHref}`}
-              variant="primary"
-              size="lg"
-              className={cn(
-                'mt-4 transition-all duration-500 ease-out-quart',
-                isMenuOpen ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
-              )}
-              style={{ transitionDelay: isMenuOpen ? '400ms' : '0ms' }}
-            >
-              {navigationConfig.contactLabel}
-            </AnimatedButton>
-          )}
+        {/* Top Header - Close (Reference style) */}
+        <div className="flex items-center justify-end p-8 relative z-[110]">
+          <button
+            onClick={(e) => {
+              e.stopPropagation();
+              setIsMenuOpen(false);
+            }}
+            className="flex items-center justify-center w-14 h-14 bg-white rounded-xl text-exvia-black shadow-2xl cursor-pointer hover:scale-95 transition-transform active:scale-90"
+            aria-label="Close menu"
+          >
+            <LucideIcons.X className="w-8 h-8 pointer-events-none" />
+          </button>
         </div>
-      </div>
-    )}
+
+        {/* Centered Navigation Links (Reference style) */}
+        <div className="flex-1 flex flex-col items-center justify-center -mt-20 relative z-[105]">
+          <div className="flex flex-col items-center gap-6 md:gap-10">
+            {links.map((link, index) => (
+              <Link
+                key={link.label}
+                to={isHomePage ? link.href : `/${link.href}`}
+                onClick={(e) => handleNavClick(e as any, link.href)}
+                className={cn(
+                  'text-4xl md:text-6xl font-black text-white uppercase tracking-tighter hover:text-white/70 transition-all duration-700 ease-out-quart cursor-pointer',
+                  isMenuOpen ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-12'
+                )}
+                style={{ transitionDelay: isMenuOpen ? `${index * 80 + 100}ms` : '0ms' }}
+              >
+                {link.label}
+              </Link>
+            ))}
+            
+            {/* Explicitly adding Testimonials as per reference image */}
+            <button
+               onClick={(e) => {
+                 e.preventDefault();
+                 handleNavClick(e as any, '#testimonials');
+               }}
+               className={cn(
+                'text-4xl md:text-6xl font-black text-white uppercase tracking-tighter hover:text-white/70 transition-all duration-700 ease-out-quart cursor-pointer',
+                isMenuOpen ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-12'
+              )}
+              style={{ transitionDelay: isMenuOpen ? `${links.length * 80 + 100}ms` : '0ms' }}
+            >
+              Testimonials
+            </button>
+          </div>
+        </div>
+
+        {/* Decorative Image at bottom (Reference style) */}
+        <div 
+          className={cn(
+            'absolute bottom-0 left-1/2 -translate-x-1/2 w-full max-w-sm px-6 transition-all duration-1000 ease-out-quart delay-500 pointer-events-none z-[102]',
+            isMenuOpen ? 'opacity-50 translate-y-0' : 'opacity-0 translate-y-20'
+          )}
+        >
+          <div className="aspect-[3/4] overflow-hidden rounded-t-3xl border-x border-t border-white/10 shadow-2xl">
+            <img 
+              src="/images/about-1.jpg" 
+              alt="Decorative background" 
+              className="w-full h-full object-cover grayscale brightness-75"
+            />
+          </div>
+        </div>
+      </nav>
     </>
   );
 }

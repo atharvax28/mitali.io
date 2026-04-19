@@ -48,7 +48,7 @@ export interface HeroConfig {
 export const heroConfig: HeroConfig = {
   name: "MITALI\nBORKAR",
   roles: ["UX Designer", "Product Designer", "Design Researcher", "Interaction Designer", "Systems Thinker", "Wireframing"],
-  backgroundImage: "/images/hero-bg.jpg",
+  backgroundImage: "/temp-bg.png",
 };
 
 // About section configuration
