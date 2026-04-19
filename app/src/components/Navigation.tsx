@@ -112,7 +112,10 @@ export function Navigation() {
             {navigationConfig.links.length > 0 && (
               <button
                 onClick={() => setIsMenuOpen(true)}
-                className="lg:hidden relative flex items-center justify-center w-12 h-12 -mr-3 text-exvia-black focus:outline-none"
+                className={cn(
+                  "lg:hidden relative flex items-center justify-center w-12 h-12 -mr-3 focus:outline-none transition-all duration-300",
+                  isScrolled ? "bg-exvia-black text-white rounded-full" : "text-white bg-black/20 backdrop-blur-md rounded-full"
+                )}
                 aria-label="Open menu"
                 aria-expanded={isMenuOpen}
                 aria-controls="mobileDrawer"
@@ -120,20 +123,20 @@ export function Navigation() {
                 <div className="relative w-6 h-5 overflow-hidden flex flex-col justify-between group">
                   <span
                     className={cn(
-                      'w-full h-[1.5px] transition-all duration-500 ease-out-quart transform-gpu',
-                      (isScrolled || !isHomePage) ? 'bg-exvia-black' : 'bg-white'
+                      'w-full h-[2px] transition-all duration-500 ease-out-quart transform-gpu',
+                      'bg-white'
                     )}
                   />
                   <span
                     className={cn(
-                      'w-full h-[1.5px] transition-all duration-500 ease-out-quart transform-gpu',
-                      (isScrolled || !isHomePage) ? 'bg-exvia-black' : 'bg-white'
+                      'w-full h-[2px] transition-all duration-500 ease-out-quart transform-gpu',
+                      'bg-white'
                     )}
                   />
                   <span
                     className={cn(
-                      'w-[60%] ml-auto h-[1.5px] transition-all duration-500 ease-out-quart transform-gpu',
-                      (isScrolled || !isHomePage) ? 'bg-exvia-black' : 'bg-white'
+                      'w-[60%] ml-auto h-[2px] transition-all duration-500 ease-out-quart transform-gpu',
+                      'bg-white'
                     )}
                   />
                 </div>
