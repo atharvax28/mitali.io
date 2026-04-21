@@ -1,4 +1,25 @@
-mitali-portfolio - Copy/
-mitali-portfolio - Copy
+# Project Folders
+non essential/
+.claude/
+.vercel/
+
+# Dependencies
 node_modules/
+
+# Build
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
 .DS_Store
+Thumbs.db
+
+# Deployment specifics
+mitali final v1/node_modules/
+mitali final v1/dist/
