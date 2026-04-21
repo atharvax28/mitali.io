@@ -1,14 +1,18 @@
-# Project Folders
-non essential/
-.claude/
-.vercel/
-
 # Dependencies
 node_modules/
+.pnp
+.pnp.js
 
 # Build
 dist/
 build/
+
+# Reference/Legacy
+non essential/
+case studies/
+info.md
+README.md
+nd.css
 
 # IDE
 .vscode/
@@ -20,6 +24,13 @@ build/
 .DS_Store
 Thumbs.db
 
-# Deployment specifics
-mitali final v1/node_modules/
-mitali final v1/dist/
+# Vercel
+.vercel/
+.vercel_backup
+
+# Local env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
