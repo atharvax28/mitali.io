@@ -68,15 +68,19 @@ export function About() {
             {aboutConfig.stats.length > 0 && (
               <div
                 className={cn(
-                  'grid grid-cols-3 gap-8 pt-8 border-t border-exvia-border transition-all duration-800 ease-out-quart',
+                  'flex flex-wrap gap-x-8 gap-y-6 pt-8 border-t border-exvia-border transition-all duration-800 ease-out-quart',
                   sectionVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-6'
                 )}
                 style={{ transitionDelay: '300ms' }}
               >
                 {aboutConfig.stats.map((stat, index) => (
-                  <div key={index}>
-                    <span className="block text-3xl font-semibold text-exvia-black">{stat.value}</span>
-                    <span className="text-sm text-exvia-black/60">{stat.label}</span>
+                  <div key={index} className="flex-1 min-w-[100px] sm:flex-none">
+                    <span className="block text-2xl lg:text-3xl font-semibold text-exvia-black truncate sm:whitespace-normal">
+                      {stat.value}
+                    </span>
+                    <span className="text-sm text-exvia-black/60 whitespace-pre-line">
+                      {stat.label}
+                    </span>
                   </div>
                 ))}
               </div>
